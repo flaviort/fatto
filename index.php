@@ -13,13 +13,33 @@
 
 				<!-- banner -->
 				<section id="banner">
-					<div class="container container-big">
-						<div class="row">
-							<div class="col-12">
 
-							</div>
+					<p class="text-smaller side-text">
+						<span>Fatto Inteligência Política – Todos os direitos reservados – 2022</span>
+					</p>
+
+					<div class="bottom-blocks text-medium">
+						<div class="inner">
+
+							<a href="quem-somos.php" class="arrow wow fadeInRight" data-wow-delay="1.2s">
+								<?php include('assets/svg/arrow-right.php') ?>
+							</a>
+
+							<a href="quem-somos.php" class="block green wow fadeInUp" data-wow-delay=".6s">
+								<p>
+									Independência para analisar o cenário institucional na América Latina.
+								</p>
+							</a>
+
+							<a href="quem-somos.php" class="block wow fadeInUp">
+								<p>
+									Acreditamos que entender o governo é essencial para qualquer negócio.
+								</p>
+							</a>
+
 						</div>
 					</div>
+
 				</section>
 				
 			</main>

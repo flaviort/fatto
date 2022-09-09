@@ -1,13 +1,18 @@
+body {
+	font-family: $inter;
+	color: $gray-medium;
+}
+
+.text-smaller,
 .text-small,
-.text-medium-small,
 .text-medium,
-.text-medium-big,
 .text-big,
-.text-bigger {
-	font-family: $source;
+.text-bigger,
+.text-huge {
+	font-family: $inter;
 	font-weight: $regular;
 	font-variant: no-common-ligatures;
-	letter-spacing: 1px;
+	letter-spacing: normal;
 
 	strong, b {
 		font-size: inherit;
@@ -31,20 +36,16 @@
 	}
 }
 
-.text-small {
+.text-smaller {
 	font-size: 12px;
 	line-height: 1.6;
-
-	@media #{$mq-md-min} {
-		font-size: 14px;
-	}
 }
 
-.text-medium-small {
+.text-small {
 	font-size: 14px;
 	line-height: 1.6;
 
-	@media #{$mq-lg-min} {
+	@media #{$mq-xs-min} {
 		font-size: 16px;
 	}
 }
@@ -53,172 +54,53 @@
 	font-size: 16px;
 	line-height: 1.6;
 
-	@media #{$mq-sm-min} {
+	@media #{$mq-md-min} {
 		font-size: 18px;
 	}
 
-	@media #{$mq-xl-min} {
-		font-size: 20px;
-	}
-}
-
-.text-medium-big {
-	font-size: 18px;
-	line-height: 1.6;
-
-	@media #{$mq-sm-min} {
+	@media #{$mq-lg-min} {
 		font-size: 20px;
 	}
 
 	@media #{$mq-xl-min} {
 		font-size: 22px;
+	}
+
+	@media #{$mq-2xl-min} {
+		font-size: 24px;
 	}
 }
 
 .text-big {
-	font-size: 22px;
+	font-size: 36px;
 	line-height: 1.6;
-
-	@media #{$mq-sm-min} {
-		font-size: 24px;
-	}
-
-	@media #{$mq-md-min} {
-		font-size: 26px;
-	}
-
-	@media #{$mq-lg-min} {
-		font-size: 28px;
-	}
-
-	@media #{$mq-xl-min} {
-		font-size: 32px;
-	}
 }
 
 .text-bigger {
-	font-size: 28px;
-	line-height: 1.4;
+	font-size: 48px;
+	line-height: 1.6;
+}
 
-	@media #{$mq-sm-min} {
-		font-size: 32px;
+.text-huge {
+	font-size: 11vw;
+	line-height: 16vw;
+
+	@media #{$mq-xs-min} {
+		font-size: 10vw;
+		line-height: 15vw;
+	}
+
+	@media #{$mq-landscape} {
+		font-size: 10vh;
+		line-height: 13vh;
 	}
 
 	@media #{$mq-md-min} {
-		font-size: 36px;
-	}
-
-	@media #{$mq-lg-min} {
-		font-size: 38px;
-	}
-
-	@media #{$mq-xl-min} {
-		font-size: 40px;
-	}
-}
-
-.title-small,
-.title-medium,
-.title-big,
-.title-bigger {
-	font-family: $rock-salt;
-	font-weight: $light;
-	font-variant: no-common-ligatures;
-
-	strong, b {
-		font-size: inherit;
-		line-height: inherit;
-		color: inherit;
-		font-weight: $semi-bold;
-		font-family: inherit;
-	}
-
-	* {
-		font-family: inherit;
-		font-weight: inherit;
-		line-height: inherit;
-		font-size: inherit;
-		color: inherit;
-	}
-
-	small {
-		font-size: 45%;
-		vertical-align: super;
-	}
-}
-
-.title-small {
-	font-size: 18px;
-	line-height: 1.5;
-
-	@media #{$mq-md-min} {
-		font-size: 20px;
-	}
-}
-
-.title-medium {
-	font-size: 20px;
-	line-height: 1.5;
-
-	@media #{$mq-md-min} {
-		font-size: 22px;
-	}
-
-	@media #{$mq-lg-min} {
-		font-size: 24px;
-	}
-
-	@media #{$mq-xl-min} {
-		font-size: 26px;
+		font-size: 9vh;
+		line-height: 12vh;
 	}
 
 	@media #{$mq-2xl-min} {
-		font-size: 30px;
-	}
-}
-
-.title-big {
-	font-size: 30px;
-	line-height: 1.5;
-
-	@media #{$mq-sm-min} {
-		font-size: 34px;
-	}
-
-	@media #{$mq-lg-min} {
-		font-size: 40px;
-	}
-
-	@media #{$mq-xl-min} {
-		font-size: 46px;
-	}
-
-	@media #{$mq-2xl-min} {
-		font-size: 52px;
-	}
-}
-
-.title-bigger {
-	font-size: 50px;
-	line-height: 1.5;
-
-	@media #{$mq-sm-min} {
-		font-size: 60px;
-	}
-
-	@media #{$mq-md-min} {
-		font-size: 70px;
-	}
-
-	@media #{$mq-lg-min} {
-		font-size: 80px;
-	}
-
-	@media #{$mq-xl-min} {
-		font-size: 90px;
-	}
-
-	@media #{$mq-2xl-min} {
-		font-size: 100px;
+		font-size: 10vh;
 	}
 }

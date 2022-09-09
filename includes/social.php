@@ -1,11 +1,17 @@
 <li>
-    <a href="https://www.instagram.com/" target="_blank">
-        <?php include('assets/svg/instagram.php') ?>
+    <a href="https://www.linkedin.com/company/fatto-inteligencia-politica" target="_blank" class="hover">
+        Linkedin
     </a>
 </li>
 
 <li>
-    <a href="https://www.facebook.com/" target="_blank">
-        <?php include('assets/svg/facebook.php') ?>
+    <p>
+        /
+    </p>
+</li>
+
+<li>
+    <a href="https://open.spotify.com/show/5OIXiSHUPnuqOCBkxkOEVH?si=ced797bfd9574f4e" target="_blank" class="hover">
+        Spotify
     </a>
 </li>
