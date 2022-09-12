@@ -10,7 +10,7 @@ body {
 .text-bigger,
 .text-huge {
 	font-family: $inter;
-	font-weight: $regular;
+	font-weight: inherit;
 	font-variant: no-common-ligatures;
 	letter-spacing: normal;
 
@@ -72,13 +72,59 @@ body {
 }
 
 .text-big {
-	font-size: 36px;
+	font-size: 20px;
 	line-height: 1.6;
+
+	@media #{$mq-xs-min} {
+		font-size: 22px;
+	}
+
+	@media #{$mq-sm-min} {
+		font-size: 24px;
+	}
+
+	@media #{$mq-md-min} {
+		font-size: 26px;
+	}
+
+	@media #{$mq-lg-min} {
+		font-size: 30px;
+	}
+
+	@media #{$mq-xl-min} {
+		font-size: 34px;
+		line-height: 1.4;
+	}
+
+	@media #{$mq-2xl-min} {
+		font-size: 36px;
+	}
 }
 
 .text-bigger {
-	font-size: 48px;
+	font-size: 28px;
 	line-height: 1.6;
+
+	@media #{$mq-sm-min} {
+		font-size: 32px;
+	}
+
+	@media #{$mq-md-min} {
+		font-size: 36px;
+		line-height: 1.4;
+	}
+
+	@media #{$mq-lg-min} {
+		font-size: 40px;
+	}
+
+	@media #{$mq-xl-min} {
+		font-size: 44px;
+	}
+
+	@media #{$mq-2xl-min} {
+		font-size: 48px;
+	}
 }
 
 .text-huge {

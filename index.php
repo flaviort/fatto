@@ -26,13 +26,13 @@
 							</a>
 
 							<a href="quem-somos.php" class="block green wow fadeInUp" data-wow-delay=".6s">
-								<p>
+								<p class="hover-multiple-lines">
 									Independência para analisar o cenário institucional na América Latina.
 								</p>
 							</a>
 
 							<a href="quem-somos.php" class="block wow fadeInUp">
-								<p>
+								<p class="hover-multiple-lines">
 									Acreditamos que entender o governo é essencial para qualquer negócio.
 								</p>
 							</a>
@@ -44,13 +44,8 @@
 				
 			</main>
 
-			<!-- footer -->
-			<?php include('includes/footer.php'); ?>
-			<?php include('includes/popups.php'); ?>
-
 			<footer>
 				<script src="assets/js/framework.js"></script>
-				<script src="assets/js/home.js" defer></script>
 			</footer>
 
 		</div>

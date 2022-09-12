@@ -1,0 +1,241 @@
+body.who-we-are {
+    #banner {
+        position: relative;
+        overflow: hidden;
+        background-color: $black;
+        color: $white;
+        font-weight: $light;
+        padding-top: 10rem;
+        padding-bottom: 5rem;
+        margin-bottom: 4rem;
+
+        @media #{$mq-md-min} {
+            padding-top: 15rem;
+            padding-bottom: 8rem;
+            margin-bottom: 6rem;
+        }
+
+        @media #{$mq-lg-min} {
+            padding-top: 20rem;
+            padding-bottom: 12rem;
+            margin-bottom: 8rem;
+        }
+
+        @media #{$mq-xl-min} {
+            padding-top: 28rem;
+            padding-bottom: 15rem;
+            margin-bottom: 10rem;
+        }
+
+        .bg {
+            position: absolute;
+            z-index: 0;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url(../img/banner-quem-somos.jpg) left center / cover no-repeat;
+
+            @media #{$mq-md-min} {
+                background-position: center center;
+            }
+        }
+
+        .container {
+            position: relative;
+            z-index: 2;
+
+            .left {
+                .title {
+                    display: block;
+                    margin-bottom: 2rem;
+                }
+            }
+
+            .right {
+                .sub {
+                    display: block;
+                    margin-bottom: 2rem;
+
+                    @media #{$mq-md-min} {
+                        margin-bottom: 3rem;
+                    }
+
+                    @media #{$mq-lg-min} {
+                        margin-bottom: 4rem;
+                    }
+                }
+            }
+        }
+    }
+
+    #about {
+        font-weight: $light;
+        color: $black;
+
+        .letter {
+            display: inline-block;
+            width: 3rem;
+
+            @media #{$mq-md-min} {
+                width: 4rem;
+            }
+        }
+
+        .feature {
+            display: block;
+            margin-top: 1rem;
+            margin-bottom: 2rem;
+
+            @media #{$mq-md-min} {
+                margin-top: 0;
+                margin-bottom: 0;
+            }
+
+            @media #{$mq-xl-min} {
+                margin-top: -.75rem;
+            }
+        }
+
+        .desc {
+            display: block;
+            margin-top: 2rem;
+
+            @media #{$mq-md-min} {
+                margin-top: 0;
+            }
+        }
+    }
+
+    #slider {
+        margin: 3rem 0 4rem 0;
+        font-weight: $light;
+
+        @media #{$mq-sm-min} {
+            margin: 4rem 0 7rem 0;
+        }
+
+        @media #{$mq-lg-min} {
+            margin: 5rem 0 10rem 0;
+        }
+
+        @media #{$mq-xl-min} {
+            margin-top: 7rem;
+        }
+
+        .feature {
+            color: $black;
+        }
+
+        .values-slider {
+            display: block;
+            margin-top: 1rem;
+            width: 100vw;
+            position: relative;
+            overflow: hidden;
+
+            @media #{$mq-md-min} {
+                margin-top: 2rem;
+            }
+
+            @media #{$mq-lg-min} {
+                margin-top: 3rem;
+            }
+
+            .swiper-slide {
+                height: auto;
+                align-self: stretch;
+                box-sizing: border-box;
+
+                &.swiper-slide-active {
+                    .box {
+                        background-color: $green;
+                        color: $white;
+                    }
+                }
+
+                .box {
+                    display: block;
+                    position: relative;
+                    background-color: $beige;
+                    color: $green;
+                    height: 100%;
+                    padding: 1.5rem 1.5rem 7rem 1.5rem;
+                    transition: .3s;
+
+                    @media #{$mq-xs-min} {
+                        padding: 2rem 2rem 10rem 2rem;
+                    }
+
+                    @media #{$mq-2xl-min} {
+                        padding: 3rem 3rem 12rem 3rem;
+                    }
+
+                    .top {
+                        display: flex;
+                        align-items: flex-start;
+                        justify-content: space-between;
+                        font-weight: $medium;
+                    }
+
+                    .title {
+                        display: block;
+                        margin: 1rem 0;
+
+                        @media #{$mq-xl-min} {
+                            margin: 2rem 0;
+                        }
+                    }
+
+                    .letter {
+                        position: absolute;
+                        width: 1.5rem;
+                        height: auto;
+                        bottom: 1.5rem;
+                        left: 1.5rem;
+
+                        @media #{$mq-xs-min} {
+                            width: 2rem;
+                            bottom: 2rem;
+                            left: 2rem;
+                        }
+
+                        @media #{$mq-2xl-min} {
+                            bottom: 3rem;
+                            left: 3rem;
+                        }
+                    }
+                }
+            }
+        }
+
+        .swiper-pagination {
+            position: relative;
+            width: 100%;
+            bottom: auto;
+            left: auto;
+            top: auto;
+            right: auto;
+            text-align: center;
+            margin: 2rem auto 0 auto;
+            padding: 0;
+
+            .swiper-pagination-bullet {
+                display: inline-block;
+                vertical-align: middle;
+                width: .85rem;
+                height: .9rem;
+                border-radius: 0;
+                border-top-left-radius: .35rem;
+                border-bottom-right-radius: .35rem;
+                opacity: 1;
+                background-color: $gray-lightest;
+                margin: 0 .25rem;
+
+                &.swiper-pagination-bullet-active {
+                    background-color: $green;
+                }
+            }
+        }
+    }
+}

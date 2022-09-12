@@ -89,37 +89,27 @@ body.home {
                     z-index: 2;
                     background-color: $black;
                     padding: 2rem;
-                    transition: .3s;
                     display: block;
                     height: auto;
 
-                    @media #{$mq-xs-min} {
-                        padding: 3rem;
-                    }
-
                     @media #{$mq-sm-min} {
                         padding: 3vw;
+                        width: 30vw;
+                    }
+
+                    @media #{$mq-xl-min} {
+                        width: 25vw;
                     }
 
                     &:hover,
                     &:focus {
-                        background-color: $gray-dark!important;
+                        p {
+                            background-size: 100% var(--border-width);
+                        }
                     }
                     
                     &.green {
                         background-color: $green;
-                    }
-
-                    p {
-                        display: block;
-
-                        @media #{$mq-sm-min} {
-                            width: 30vw;
-                        }
-
-                        @media #{$mq-xl-min} {
-                            width: 20vw;
-                        }
                     }
                 }
             }
