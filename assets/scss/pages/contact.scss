@@ -100,7 +100,56 @@ body.contact {
 
         .form {
             display: block;
-            margin: 5rem 0;
+            margin: 3rem 0 5rem 0;
+
+            @media #{$mq-sm-min} {
+                margin-top: 4rem;
+            }
+
+            @media #{$mq-md-min} {
+                margin: 5rem 0;
+            }
+
+            @media #{$mq-lg-min} {
+                margin: 7rem 0;
+            }
+
+            .right {
+                @media #{$mq-md-min} {
+                    height: auto;
+                    align-items: stretch;
+                }
+
+                .form-line {
+                    @media #{$mq-md-min} {
+                        display: flex;
+                        align-items: stretch;
+                        justify-content: flex-start;
+                        flex-direction: column;
+                        margin-bottom: 0;
+                        height: calc(100% - 4.3rem);
+                    }
+
+                    @media #{$mq-lg-min} {
+                        height: calc(100% - 4.5rem);
+                    }
+
+                    @media #{$mq-xl-min} {
+                        height: calc(100% - 4.7rem);
+                    }
+
+                    @media #{$mq-2xl-min} {
+                        height: calc(100% - 4.9rem);
+                    }
+
+                    .textarea {
+                        @media #{$mq-md-min} {
+                            height: 100%;
+                            min-height: 100%;
+                        }
+                    }
+                }
+            }
 
             .green-button {
                 float: right;

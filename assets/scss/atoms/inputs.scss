@@ -1,0 +1,55 @@
+.form-line {
+    position: relative;
+    display: block;
+    margin-bottom: 1.5rem;
+    color: $black;
+    font-weight: $light;
+
+    @media #{$mq-md-min} {
+        margin-bottom: 2rem;
+    }
+
+    &.error {
+        .input {
+            border-color: $red;
+            color: $red;
+        }
+    }
+
+    .label {
+        display: block;
+        position: relative;
+        color: $gray-lighter;
+        margin-bottom: .15rem;
+
+        @media #{$mq-md-min} {
+            margin-bottom: .5rem;
+        }
+    }
+
+    .input {
+        display: block;
+        position: relative;
+        width: 100%;
+        height: auto;
+        padding: .5rem 0;
+        border: none;
+        border-bottom: 1px solid $black;
+        box-shadow: none;
+        border-radius: 0;
+
+        &.textarea {
+            resize: vertical;
+            height: 10rem;
+            min-height: 10rem;
+        }
+    }
+
+    label.error {
+        display: block;
+        text-align: right;
+        color: $red;
+        font-size: 12px;
+        margin-top: .5rem;
+    }
+}

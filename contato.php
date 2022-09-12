@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 
-	<?php include('includes/head.php'); ?>
+	<?php
+		$page_title = 'Contato | Carreira';
+		include('includes/head.php');
+	?>
 
 	<body class="contact">
 		<div class="body-overflow">
@@ -41,7 +44,7 @@
 								<div class="top">
 									<div class="row">
 
-										<div class="col-md-6">
+										<div class="col-md-6 wow fadeInUp">
 
 											<p class="text-medium">
 												This is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer too.
@@ -49,7 +52,7 @@
 
 										</div>
 
-										<div class="col-md-6">
+										<div class="col-md-6 wow fadeInUp">
 
 											<?php include('assets/svg/logo-with-slogan.php') ?>
 
@@ -59,16 +62,70 @@
 								</div>
 
 								<div class="form">
-									<form action="">
+									<form action="" id="contact-form" method="post">
 										<div class="row">
 
 											<div class="col-md-6">
 
+												<div class="form-line wow fadeInUp">
+
+													<label for="nome" class="label text-medium">
+														Nome completo
+													</label>
+
+													<input type="text" name="Nome" id="nome" class="input text-medium" placeholder="Digite aqui" required />
+													
+												</div>
+
+												<div class="form-line wow fadeInUp">
+
+													<label for="email" class="label text-medium">
+														E-mail
+													</label>
+
+													<input type="email" name="Email" id="email" class="input text-medium" placeholder="Digite aqui" required />
+													
+												</div>
+
+												<div class="form-line wow fadeInUp">
+
+													<label for="telefone" class="label text-medium">
+														Telefone
+													</label>
+
+													<input type="text" name="Telefone" id="telefone" class="input text-medium" placeholder="Digite aqui" />
+													
+												</div>
+
+												<div class="form-line wow fadeInUp">
+
+													<label for="horario" class="label text-medium">
+														Melhor horário para conversarmos
+													</label>
+
+													<input type="text" name="Horário" id="horario" class="input text-medium" placeholder="Digite aqui" />
+													
+												</div>
+
 											</div>
 
-											<div class="col-md-6">
+											<div class="col-md-6 right">
 
-												<button type="submit" class="text-small green-button">
+												<div class="form-line wow fadeInUp">
+
+													<label for="mensagem" class="label text-medium">
+														Deixe sua mensagem
+													</label>
+
+													<textarea name="Mensagem" id="mensagem" class="input textarea text-medium" placeholder="Digite aqui" required></textarea>
+
+												</div>
+
+											</div>
+
+											<div class="col-12">
+												
+												<button type="submit" class="text-small green-button wow fadeInUp">
 													Enviar
 												</button>
 
@@ -85,7 +142,7 @@
 										
 										<div class="col-md-6">
 
-											<p>
+											<p class="wow fadeInUp">
 												SHIS, QI 3, Conjunto 11, Cs. 9 – Lago Sul, Brasília / DF
 											</p>
 
@@ -93,7 +150,7 @@
 
 										<div class="col-md-6">
 
-											<p>
+											<p class="wow fadeInUp">
 												CEP: 71605-310
 											</p>
 

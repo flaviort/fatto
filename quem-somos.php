@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 
-	<?php include('includes/head.php'); ?>
+	<?php
+		$page_title = 'Quem somos';
+		include('includes/head.php');
+	?>
 
 	<body class="who-we-are">
 		<div class="body-overflow">

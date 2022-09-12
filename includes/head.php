@@ -1,3 +1,21 @@
+<?php
+	// page title
+	if (empty($page_title)) {
+	    $page = '';
+	} else {
+	    $page = '| ' . $page_title;
+	}
+
+	// active class in the menus
+	function active($active_page) {
+	    $url_array = explode('/', $_SERVER['REQUEST_URI']);
+	    $url = end($url_array);
+	    if ($active_page == $url) {
+	        echo 'active';
+	    }
+	}
+?>
+
 <head>
 
 	<meta charset="utf-8">
@@ -7,7 +25,7 @@
 
 	<meta name="author" content="VVe Fight | Senz Design">
 
-	<title>Fatto. Inteligência Política</title>
+	<title>Fatto. Inteligência Política <?php echo htmlspecialchars($page);?></title>
 
 	<!-- google -->
 	<meta name="description" content="Independência para analisar o cenário institucional na América Latina. Acreditamos que entender o governo é essencial para qualquer negócio."/>
