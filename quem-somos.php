@@ -212,11 +212,11 @@
 												</div>
 
 												<h3 class="title text-bigger">
-													Lorem Ipsum.
+													Frieza.
 												</h3>
 
 												<p class="text-medium desc">
-													Somos obcecados pela prestação do melhor serviço: o melhor monitoramento, a melhor análise, a melhor estratégia e as melhores atuações.
+													Muitas vezes, a sequência de acontecimentos políticos leva muitos clientes a imaginar cenários irreais e dar atenção a ruídos. A Fatto tem estampada em seu próprio nome a predileção por acontecimentos concretos.
 												</p>
 
 												<div class="letter">
@@ -242,11 +242,11 @@
 												</div>
 
 												<h3 class="title text-bigger">
-													Dolor Sit.
+													Ética.
 												</h3>
 
 												<p class="text-medium desc">
-													Somos obcecados pela prestação do melhor serviço: o melhor monitoramento, a melhor análise, a melhor estratégia e as melhores atuações.
+													Não há hipótese de uma atuação não-transparente, não-profissional e pautada pelo conflito de interesses públicos e privados. A Fatto é comprometida com seu próprio Código de Ética, com a legislação anticorrupção e com as diretrizes mais rígidas de compliance.
 												</p>
 
 												<div class="letter">

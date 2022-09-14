@@ -29,17 +29,17 @@
 
 	<!-- google -->
 	<meta name="description" content="Independência para analisar o cenário institucional na América Latina. Acreditamos que entender o governo é essencial para qualquer negócio."/>
-	<link rel="canonical" href="https://dev.senzdsn.com/fatto/" />
+	<link rel="canonical" href="https://fattopolitica.com.br/" />
 		
 	<!-- facebook -->
 	<meta property="og:locale" content="pt_BR" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Fatto. Inteligência Política" />
 	<meta property="og:description" content="Independência para analisar o cenário institucional na América Latina. Acreditamos que entender o governo é essencial para qualquer negócio." />
-	<meta property="og:url" content="https://dev.senzdsn.com/fatto/" />
+	<meta property="og:url" content="https://fattopolitica.com.br/" />
 	<meta property="og:site_name" content="Fatto. Inteligência Política" />
-	<meta property="og:image" content="https://dev.senzdsn.com/fatto/assets/img/og-image.jpg" />
-	<meta property="og:image:secure_url" content="https://dev.senzdsn.com/fatto/assets/img/og-image.jpg" />
+	<meta property="og:image" content="https://fattopolitica.com.br/assets/img/og-image.jpg" />
+	<meta property="og:image:secure_url" content="https://fattopolitica.com.br/assets/img/og-image.jpg" />
 	<meta property="og:image:width" content="1200" />
 	<meta property="og:image:height" content="630" />
 

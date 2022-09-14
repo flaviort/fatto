@@ -1,3 +1,36 @@
 .popup {
     display: none;
+
+    .box {
+        background-color: $white;
+        width: 960px;
+        margin: 3rem auto;
+        max-width: calc(100% - 2rem);
+        padding: 3.5rem 1rem;
+        position: relative;
+        z-index: 1;
+        color: $black;
+        font-weight: $light;
+
+        @media #{$mq-lg-min} {
+            padding: 5rem 2rem;
+        }
+
+        .title {
+            position: relative;
+            z-index: 1;
+            text-transform: uppercase;
+            font-weight: $bold;
+            line-height: 1;
+        }
+
+        .desc {
+            display: block;
+            margin: 1.5rem auto 2rem auto;
+
+            @media #{$mq-md-min} {
+                margin: 2.5rem auto 3rem auto;
+            }
+        }
+    }
 }

@@ -7,25 +7,25 @@
 </li>
 
 <li>
-    <a href="quem-somos.php" class="hover <?php active('quem-somos.php'); ?>">
+    <a href="quem-somos" class="hover <?php active('quem-somos'); ?>">
         Quem Somos
     </a>
 </li>
 
 <li>
-    <a href="equipe.php" class="hover <?php active('equipe.php'); ?>">
+    <a href="equipe" class="hover <?php active('equipe'); ?>">
         Equipe
     </a>
 </li>
 
 <li>
-    <a href="servicos.php" class="hover <?php active('servicos.php'); ?>">
+    <a href="servicos" class="hover <?php active('servicos'); ?>">
         Serviços
     </a>
 </li>
 
 <li>
-    <a href="contato.php" class="hover <?php active('contato.php'); ?>">
+    <a href="contato" class="hover <?php active('contato'); ?>">
         Contato
     </a>
 </li>

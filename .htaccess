@@ -1,0 +1,7 @@
+## remove php file extension
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+## 404 redirect
+ErrorDocument 404 https://fattopolitica.com.br/404

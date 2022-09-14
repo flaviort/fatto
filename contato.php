@@ -47,7 +47,7 @@
 										<div class="col-md-6 wow fadeInUp">
 
 											<p class="text-medium">
-												This is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer too.
+												Entre em contato com a Fatto.
 											</p>
 
 										</div>
@@ -129,6 +129,10 @@
 													Enviar
 												</button>
 
+												<a href="#contact-success" data-fancybox>
+													test
+												</a>
+
 												<div class="cf"></div>
 
 											</div>
@@ -168,6 +172,7 @@
 
 			<!-- footer -->
 			<?php include('includes/footer.php'); ?>
+			<?php include('includes/popups.php'); ?>
 
 			<footer>
 				<script src="assets/js/framework.js"></script>

@@ -1,6 +1,6 @@
 // use these to create a big main.scss
 @import 'atoms/variables';
-@import 'atoms/breakpoints';
+//@import 'atoms/breakpoints';
 @import 'atoms/reset';
 @import 'atoms/scroll';
 @import 'atoms/containers';
@@ -20,8 +20,8 @@
 // pages
 @import 'pages/home';
 @import 'pages/who-we-are';
-//@import 'pages/team';
-//@import 'pages/team-internal';
+@import 'pages/team';
+@import 'pages/team-internal';
 @import 'pages/services';
 @import 'pages/contact';
-//@import 'pages/error';
+@import 'pages/error';
