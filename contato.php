@@ -4,6 +4,9 @@
 	<?php
 		$page_title = 'Contato | Carreira';
 		include('includes/head.php');
+		header("Access-Control-Allow-Origin: *");
+		header("Access-Control-Allow-Methods: PUT, GET, POST");
+		header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
 	?>
 
 	<body class="contact">
@@ -62,7 +65,7 @@
 								</div>
 
 								<div class="form">
-									<form action="" id="contact-form" method="post">
+									<form action="" id="contact-form" method="POST">
 										<div class="row">
 
 											<div class="col-md-6">
@@ -103,7 +106,7 @@
 														Melhor horário para conversarmos
 													</label>
 
-													<input type="text" name="Horário" id="horario" class="input text-medium" placeholder="Digite aqui" />
+													<input type="text" name="Horario" id="horario" class="input text-medium" placeholder="Digite aqui" />
 													
 												</div>
 
@@ -126,12 +129,9 @@
 											<div class="col-12">
 												
 												<button type="submit" class="text-small green-button wow fadeInUp">
+													<span class="loading"><?php include('assets/svg/spinner.php') ?></span>
 													Enviar
 												</button>
-
-												<a href="#contact-success" data-fancybox>
-													test
-												</a>
 
 												<div class="cf"></div>
 

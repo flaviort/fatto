@@ -152,7 +152,41 @@ body.contact {
             }
 
             .green-button {
+                position: relative;
                 float: right;
+
+                .loading {
+                    position: absolute;
+                    z-index: 2;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                    opacity: 0;
+                    transition: .3s;
+                    color: $white;
+
+                    svg {
+                        width: 1.35rem;
+                        height: 1.35rem;
+                        animation: rotation 2s linear infinite;
+
+                        @media #{$mq-lg-min} {
+                            width: 1.75rem;
+                            height: 1.75rem;
+                        }
+                    }
+                }
+
+                &.sending {
+                    color: transparent;
+                    background-color: $gray-light;
+                    pointer-events: none;
+                    cursor: auto;
+
+                    .loading {
+                        opacity: 1;
+                    }
+                }
             }
         }
 
