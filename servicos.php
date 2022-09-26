@@ -26,7 +26,7 @@
 							<div class="col-12">
 
 								<h2 class="text-bigger title wow fadeInUp">
-									<span>04.</span> Serviços
+									Serviços
 								</h2>
 
 							</div>

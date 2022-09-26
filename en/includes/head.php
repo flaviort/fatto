@@ -29,14 +29,14 @@
 
 	<!-- google -->
 	<meta name="description" content="Independence to analyze the institutional scenario in Latin America. We believe that understanding government is essential for any business."/>
-	<link rel="canonical" href="https://fattopolitica.com.br/en/" />
+	<link rel="canonical" href="https://fattopolitica.com.br/es/" />
 		
 	<!-- facebook -->
-	<meta property="og:locale" content="en_US" />
+	<meta property="og:locale" content="es_LA" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Fatto. Political Intelligence" />
 	<meta property="og:description" content="Independence to analyze the institutional scenario in Latin America. We believe that understanding government is essential for any business." />
-	<meta property="og:url" content="https://fattopolitica.com.br/en/" />
+	<meta property="og:url" content="https://fattopolitica.com.br/es/" />
 	<meta property="og:site_name" content="Fatto. Political Intelligence" />
 	<meta property="og:image" content="https://fattopolitica.com.br/assets/img/og-image.jpg" />
 	<meta property="og:image:secure_url" content="https://fattopolitica.com.br/assets/img/og-image.jpg" />

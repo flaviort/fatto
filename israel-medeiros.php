@@ -33,7 +33,7 @@
 
 									<h1 class="text-bigger wow fadeInUp sub">
 										Israel Medeiros <br />
-										Analista
+										Analista Político
 									</h1>
 
 									<div class="letter wow fadeInUp">

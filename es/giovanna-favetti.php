@@ -2,7 +2,7 @@
 <html lang="es">
 
 	<?php
-		$page_title = 'Team | Giovanna Favetti';
+		$page_title = 'Equipo | Giovanna Favetti';
 		include('includes/head.php');
 	?>
 
@@ -33,7 +33,7 @@
 
 									<h1 class="text-bigger wow fadeInUp sub">
 										Giovanna Favetti <br />
-										Associate consultant
+										Consultora Asociada
 									</h1>
 
 									<div class="letter wow fadeInUp">
@@ -47,11 +47,11 @@
 									<div class="line wow fadeInUp">
 
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
-
+	
 										<p>
-											Attorney
+											Consultora de Derecho Electoral
 										</p>
-
+	
 									</div>
 
 									<div class="line wow fadeInUp">
@@ -59,7 +59,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Electoral Law Consultant
+											Abogada
 										</p>
 
 									</div>
@@ -80,7 +80,7 @@
 							<div class="col-lg-6 left wow fadeInUp">
 
 								<p class="text-bigger">
-									About Giovanna F.
+									Sobre Giovanna F.
 								</p>
 
 								<?php include('../assets/svg/long-arrow-right.php') ?>
@@ -90,13 +90,13 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Lawyer with expertise in administrative, constitutional and electoral law. Advisor to the titular judge of the jurist class of the Regional Electoral Court of Paraná (2016 and 2018). During 2019, she was part of the team of the Legal Advisory Center of the Public Ministry of Paraná. She is a consultant in the area of Electoral Law.
+									Abogada con experiencia en derecho administrativo, constitucional y electoral. Asesor del juez titular de la clase de juristas del Tribunal Regional Electoral de Paraná (2016 y 2018). Durante 2019 formó parte del equipo del Centro de Asesoría Jurídica del Ministerio Público de Paraná. Es consultora de Derecho Electoral.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">
 
 									<p>
-										Follow Giovanna Favetti
+										Seguir Giovanna Favetti
 									</p>
 
 									<a href="#" target="_blank" class="hover">

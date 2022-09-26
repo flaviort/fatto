@@ -69,7 +69,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Master's in Strategic Policy – FLACSO
+											Strategic Political Communication - FLACSO Mexico
 										</p>
 
 									</div>

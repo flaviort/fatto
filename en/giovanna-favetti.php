@@ -47,11 +47,11 @@
 									<div class="line wow fadeInUp">
 
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
-
+	
 										<p>
-											Attorney
+											Electoral Law Consultant
 										</p>
-
+	
 									</div>
 
 									<div class="line wow fadeInUp">
@@ -59,7 +59,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Electoral Law Consultant
+											Attorney
 										</p>
 
 									</div>

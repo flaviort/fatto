@@ -33,7 +33,7 @@
 
 									<h1 class="text-bigger wow fadeInUp sub">
 										Anna Dantas <br />
-										Associate consultant
+										Associate Consultant
 									</h1>
 
 									<div class="letter wow fadeInUp">
@@ -43,6 +43,16 @@
 								</div>
 
 								<div class="details text-big">
+
+									<div class="line wow fadeInUp">
+
+										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
+
+										<p>
+											Administrative Law Consultant
+										</p>
+
+									</div>
 
 									<div class="line wow fadeInUp">
 
@@ -90,7 +100,7 @@
 							<div class="col-lg-6 left wow fadeInUp">
 
 								<p class="text-bigger">
-									About Anna F.
+									About Anna D.
 								</p>
 
 								<?php include('../assets/svg/long-arrow-right.php') ?>

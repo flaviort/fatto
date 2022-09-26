@@ -125,7 +125,7 @@
 									<br />
 									
 									<span class="text-medium">
-										(Analista)
+										(Consultora)
 									</span>
 				
 								</h3>

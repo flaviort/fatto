@@ -2,7 +2,7 @@
 <html lang="es">
 
 	<?php
-		$page_title = 'Team | Rafael Favetti';
+		$page_title = 'Equipo | Rafael Favetti';
 		include('includes/head.php');
 	?>
 
@@ -33,7 +33,7 @@
 
 									<h1 class="text-bigger wow fadeInUp sub">
 										Rafael Favetti <br />
-										partner
+										Socio
 									</h1>
 
 									<div class="letter wow fadeInUp">
@@ -49,7 +49,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Political Scientist
+											Cientista Político
 										</p>
 
 									</div>
@@ -59,7 +59,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Professor
+											Profesor
 										</p>
 
 									</div>
@@ -69,7 +69,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Master in Political Science – UNB
+											Máster en Ciencias Políticas – UnB
 										</p>
 
 									</div>
@@ -79,7 +79,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Doctor of Laws – IDP
+											Doctor en Derecho – IDP
 										</p>
 
 									</div>
@@ -100,7 +100,7 @@
 							<div class="col-lg-6 left wow fadeInUp">
 
 								<p class="text-bigger">
-									About Rafael F.
+									Sobre Rafael F.
 								</p>
 
 								<?php include('../assets/svg/long-arrow-right.php') ?>
@@ -110,13 +110,13 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Political scientist, professor and lawyer. Master in Political Science from UnB and Doctor in Law from IDP. He was executive secretary of the Ministry of Justice and legal adviser to the portfolio. He was also an advisor and chief of staff to a minister of the STF and served as a party consultant in the Federal Senate. He has been a political analyst for associations, companies and investment funds for over 20 years.
+									Cientista político, profesor y abogado. Máster en Ciencias Políticas por la Universidad de Brasilia y Doctor en Derecho por el Instituto de Derecho Público – IDP. Fue secretario ejecutivo del Ministerio de la Justicia y asesor legal del Ministerio. También fue asesor y jefe de gabinete de ministro del Supremo Tribunal Federal y se desempeñó como consultor de un partido político en el Senado Federal. Ha sido analista político de asociaciones, empresas y fondos de inversión durante más de 20 años.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">
 
 									<p>
-										Follow Rafael Favetti
+										Seguir Rafael Favetti
 									</p>
 
 									<a href="https://www.linkedin.com/in/rafael-favetti-80762093/" target="_blank" class="hover">

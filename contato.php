@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 
 	<?php
-		$page_title = 'Contato | Carreira';
+		$page_title = 'Contato';
 		include('includes/head.php');
 		header("Access-Control-Allow-Origin: *");
 		header("Access-Control-Allow-Methods: PUT, GET, POST");
@@ -29,8 +29,7 @@
 							<div class="col-12">
 
 								<h2 class="text-bigger title wow fadeInUp">
-									<span>05.</span> Contato <br />
-									Carreira
+									Contato
 								</h2>
 
 							</div>

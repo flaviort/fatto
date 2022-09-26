@@ -2,7 +2,7 @@
 <html lang="es">
 
 	<?php
-		$page_title = 'Team | Bernardo Livramento';
+		$page_title = 'Equipo | Bernardo Livramento';
 		include('includes/head.php');
 	?>
 
@@ -33,7 +33,7 @@
 
 									<h1 class="text-bigger wow fadeInUp sub">
 										Bernardo Livramento <br />
-										Partner
+										Socio
 									</h1>
 
 									<div class="letter wow fadeInUp">
@@ -49,7 +49,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Graduate in Political Science – UnB
+											Graduado en Ciencias Políticas – UnB
 										</p>
 
 									</div>
@@ -59,7 +59,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Graduated in Adm. Business – UDESC
+											Graduado en Administración de Empresas – UDESC
 										</p>
 
 									</div>
@@ -69,7 +69,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Master's in Strategic Policy – FLACSO
+											Comunicación Política Estratégica - FLACSO Mexico
 										</p>
 
 									</div>
@@ -90,7 +90,7 @@
 							<div class="col-lg-6 left wow fadeInUp">
 
 								<p class="text-bigger">
-									About Bernardo L.
+									Sobre Bernardo L.
 								</p>
 
 								<?php include('../assets/svg/long-arrow-right.php') ?>
@@ -100,13 +100,13 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Graduated in Political Science from UnB and in Business Administration from UDESC. He is currently a postgraduate student in Strategic Political Communication at FLACSO in Mexico. He was part of the Political Analysis team at XP Investimentos (2019) and managed the work of FEJERS – Federation of Junior Companies of Rio Grande do Sul – at the three levels of the country’s three levels of government (2019). He is also the founder of Demodata, a parliamentary research company that carries out statistical surveys in the National Congress. He delved into political analysis focused on the financial market.
+									Cientista político por la Universidad de Brasília y graduado en Administración de Empresas por la Universidad del Estado de Santa Catarina. Actualmente es estudiante de posgrado en Comunicación Política Estratégica en FLACSO en México. Formó parte del equipo de Análisis Político de XP Investimentos (2019) y gestionó el trabajo de la FEJERS – Federación de Empresas Junior de Rio Grande do Sul – en los tres niveles de los poderes públicos del país (2019). También es el fundador de Demodata, una empresa de investigación parlamentaria que realiza encuestas estadísticas en el Congreso Nacional. Profundizó en el análisis político centrado en el mercado financiero.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">
 
 									<p>
-										Follow Bernardo Livramento
+										Seguir Bernardo Livramento
 									</p>
 
 									<a href="https://www.linkedin.com/in/bernardo-livramento/" target="_blank" class="hover">

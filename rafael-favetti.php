@@ -69,7 +69,7 @@
 										<?php include('assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Mestre em Ciência Política – UNB
+											Mestre em Ciência Política – UnB
 										</p>
 
 									</div>

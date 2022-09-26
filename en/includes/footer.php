@@ -10,11 +10,11 @@
                 </nav>
 
                 <p class="fatto">
-                    Fatto. Political Intelligence
+                    Fatto. Inteligencia Política
                 </p>
 
                 <p>
-                    All rights reserved
+                    Reservados todos los derechos
                 </p>
 
             </div>

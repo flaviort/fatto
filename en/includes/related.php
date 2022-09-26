@@ -125,7 +125,7 @@
 									<br />
 									
 									<span class="text-medium">
-										(Analyst)
+										(Consultant)
 									</span>
 				
 								</h3>

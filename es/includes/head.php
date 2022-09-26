@@ -25,19 +25,19 @@
 
 	<meta name="author" content="VVe Fight | Senz Design">
 
-	<title>Fatto. Political Intelligence <?php echo htmlspecialchars($page);?></title>
+	<title>Fatto. Inteligencia Política <?php echo htmlspecialchars($page);?></title>
 
 	<!-- google -->
-	<meta name="description" content="Independence to analyze the institutional scenario in Latin America. We believe that understanding government is essential for any business."/>
+	<meta name="description" content="Tenemos independencia para analisar el escenario institucional en Latinoamérica. Creemos que la compreensión de lo que pasa en el govierno es imprescindible para qualquier negocio."/>
 	<link rel="canonical" href="https://fattopolitica.com.br/es/" />
 		
 	<!-- facebook -->
-	<meta property="og:locale" content="es_LA" />
+	<meta property="og:locale" content="es" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Fatto. Political Intelligence" />
-	<meta property="og:description" content="Independence to analyze the institutional scenario in Latin America. We believe that understanding government is essential for any business." />
+	<meta property="og:title" content="Fatto. Inteligencia Política" />
+	<meta property="og:description" content="Tenemos independencia para analisar el escenario institucional en Latinoamérica. Creemos que la compreensión de lo que pasa en el govierno es imprescindible para qualquier negocio." />
 	<meta property="og:url" content="https://fattopolitica.com.br/es/" />
-	<meta property="og:site_name" content="Fatto. Political Intelligence" />
+	<meta property="og:site_name" content="Fatto. Inteligencia Política" />
 	<meta property="og:image" content="https://fattopolitica.com.br/assets/img/og-image.jpg" />
 	<meta property="og:image:secure_url" content="https://fattopolitica.com.br/assets/img/og-image.jpg" />
 	<meta property="og:image:width" content="1200" />

@@ -8,7 +8,7 @@
 	$time = $_POST['Horario'];
 	$message = nl2br(htmlentities($_POST['Mensagem']));
 	
-    $site_owners_email = 'hello@senzdsn.com';
+    $site_owners_email = 'fatto@fattopolitica.com.br';
 	$site_owners_name = 'Fatto';
 		
 	try {
@@ -16,7 +16,8 @@
 		$mail = new PHPMailer(true);
         $mail->isSMTP();
         $mail->From = $email;
-		$mail->setFrom($email);
+		$mail->addReplyTo($email, $name);
+		$mail->setFrom('envio@fattopolitica.com.br', 'Fatto');
 		$mail->Subject = 'Contato | Fatto';
 		$mail->AddAddress($site_owners_email, $site_owners_name);
 		$mail->Body = "
@@ -79,13 +80,14 @@
 		$mail->CharSet= 'utf-8';
 		$mail->Encoding = 'quoted-printable';
 		$mail->Mailer = "smtp";
-		$mail->Host = "mail.senzdsn.com";
+		$mail->Host = "smtp.titan.email";
 		$mail->Port = 587;
-		//$mail->SMTPSecure = "tls"; 
+		//$mail->SMTPDebug = 2;
+		$mail->SMTPSecure = "tls"; 
         		
 		$mail->SMTPAuth = true;
-		$mail->Username = "hello@senzdsn.com";
-		$mail->Password = "2766726Abc!";
+		$mail->Username = "envio@fattopolitica.com.br";
+		$mail->Password = "010203Abc!!!";
 		
 		//echo "true";
 		if($mail->Send()) {

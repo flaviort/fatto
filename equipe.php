@@ -22,7 +22,7 @@
 							<div class="col-md-5 left">
 
 								<h2 class="text-bigger title wow fadeInUp">
-									<span>03.</span> Equipe
+									Equipe
 								</h2>
 
 							</div>
@@ -30,11 +30,11 @@
 							<div class="col-md-7 right">
 
 								<p class="text-bigger wow fadeIn sub">
-									Nossa vocação é entender e antecipar movimentações políticas e institucionais que podem afetar os negócios dos nossos clientes.
+									Como uma consultoria política boutique, nossa equipe valoriza a customização e a proximidade para atender as demandas dos clientes.
 								</p>
 
 								<p class="text-medium wow fadeIn desc">
-									Também construímos movimentações estratégicas que contribuam para o encaminhamento de sistemas regulatórios e para uma comunicação assertiva dos nossos clientes.
+									Para entender cenários políticos e institucionais complexos, valorizamos áreas de atuações diversas. Temos consultores com histórico de atuação no Poder Executivo, Poder Legislativo, Poder Judiciário, autarquias, setor financeiro e jornalismo.
 								</p>
 
 							</div>
@@ -47,13 +47,13 @@
 				<section id="grid">
 					
 					<div class="link wow fadeIn" data-wow-delay=".1s">
-						<a href="anna-dantas">
+						<a href="rafael-favetti">
 							
-							<img src="assets/img/team/anna.jpg" alt="Anna Dantas">
+							<img src="assets/img/team/rafael.jpg" alt="Rafael Favetti">
 							
 							<h3 class="text-bigger">
-								Anna <br />
-								Dantas
+								Rafael <br />
+								Favetti
 							</h3>
 
 							<div class="more">
@@ -87,13 +87,13 @@
 					</div>
 
 					<div class="link wow fadeIn" data-wow-delay=".4s">
-						<a href="rafael-favetti">
+						<a href="anna-dantas">
 							
-							<img src="assets/img/team/rafael.jpg" alt="Rafael Favetti">
+							<img src="assets/img/team/anna.jpg" alt="Anna Dantas">
 							
 							<h3 class="text-bigger">
-								Rafael <br />
-								Favetti
+								Anna <br />
+								Dantas
 							</h3>
 
 							<div class="more">
@@ -132,7 +132,7 @@
 
 					<div class="text wow fadeIn" data-wow-delay=".4s">
 						<p class="text-medium">
-							Acreditamos na Inteligência Política.
+							Inteligência para antecipar riscos políticos e regulatórios.
 						</p>
 					</div>
 
@@ -227,75 +227,51 @@
 								<div class="blocks">
 									<div class="row">
 
-										<div class="col-sm-6 col-lg-4 wow fadeInUp">
+										<div class="col-sm-6 wow fadeInUp">
 
 											<p class="text-small">
 												01.
 											</p>
 
-											<p class="text-medium" >
+											<a href="https://www.favetti.adv.br/" target="_blank" class="text-medium hover-multiple-lines">
 												Favetti Sociedade de Advogados
-											</p>
+											</a>
 
 										</div>
 
-										<div class="col-sm-6 col-lg-4 wow fadeInUp" data-wow-delay=".1s">
+										<div class="col-sm-6 wow fadeInUp" data-wow-delay=".1s">
 
 											<p class="text-small">
 												02.
 											</p>
 
-											<p class="text-medium" >
+											<a href="https://abrig.org.br/" target="_blank" class="text-medium hover-multiple-lines">
 												Associação Brasileira de Relações Institucionais e Governamentais – ABRIG
-											</p>
+											</a>
 
 										</div>
 
-										<div class="col-sm-6 col-lg-4 wow fadeInUp" data-wow-delay=".2s">
+										<div class="col-sm-6 wow fadeInUp">
 
 											<p class="text-small">
 												03.
 											</p>
 
-											<p class="text-medium" >
+											<a href="https://ivnl.com.br/" target="_blank" class="text-medium hover-multiple-lines">
 												Instituto Victor Nunes Leal
-											</p>
+											</a>
 
 										</div>
 
-										<div class="col-sm-6 col-lg-4 wow fadeInUp">
+										<div class="col-sm-6 wow fadeInUp" data-wow-delay=".1s">
 
 											<p class="text-small">
 												04.
 											</p>
 
-											<p class="text-medium" >
-												Simply dummy text of the printing and typesetting industry. Lorem Ipsum has.
-											</p>
-
-										</div>
-
-										<div class="col-sm-6 col-lg-4 wow fadeInUp" data-wow-delay=".1s">
-
-											<p class="text-small">
-												05.
-											</p>
-
-											<p class="text-medium" >
-												Simply dummy text of the printing and typesetting industry. Lorem Ipsum has.
-											</p>
-
-										</div>
-
-										<div class="col-sm-6 col-lg-4 wow fadeInUp" data-wow-delay=".2s">
-
-											<p class="text-small">
-												06.
-											</p>
-
-											<p class="text-medium" >
-												Simply dummy text of the printing and typesetting industry. Lorem Ipsum has.
-											</p>
+											<a href="https://www.migalhas.com.br/coluna/inteligencia-politica" target="_blank" class="text-medium hover-multiple-lines">
+												Migalhas
+											</a>
 
 										</div>
 

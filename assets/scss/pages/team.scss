@@ -311,7 +311,11 @@ body.team {
 
         .blocks {
             display: block;
-            margin-top: 1rem;
+            margin-top: -.5rem;
+
+            @media #{$mq-sm-min} {
+                margin-top: 1rem;
+            }
 
             @media #{$mq-md-min} {
                 margin-top: 2rem;
@@ -344,8 +348,10 @@ body.team {
                     padding-bottom: .75rem;
                     margin-bottom: .75rem;
                     font-weight: $bold;
+                    margin-top: 2rem;
 
                     @media #{$mq-sm-min} {
+                        margin-top: 0;
                         padding-bottom: 1rem;
                         margin-bottom: 1rem;
                     }
@@ -357,11 +363,7 @@ body.team {
 
                 .text-medium {
                     font-weight: $light;
-                    margin-bottom: 2rem;
-
-                    @media #{$mq-sm-min} {
-                        margin-bottom: 0;
-                    }
+                    color: $white;
                 }
             }
         }

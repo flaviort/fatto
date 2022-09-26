@@ -33,7 +33,7 @@
 
 									<h1 class="text-bigger wow fadeInUp sub">
 										Arthur Lira <br />
-										Analyst
+										Political Analyst
 									</h1>
 
 									<div class="letter wow fadeInUp">

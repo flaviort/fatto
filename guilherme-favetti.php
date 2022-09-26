@@ -49,6 +49,16 @@
 										<?php include('assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
+											Consultor em Direito Penal
+										</p>
+
+									</div>
+
+									<div class="line wow fadeInUp">
+
+										<?php include('assets/svg/diagonal-arrow-down.php') ?>
+
+										<p>
 											Advogado
 										</p>
 

@@ -26,8 +26,8 @@
 							<div class="col-12">
 
 								<h2 class="text-bigger title wow fadeInUp">
-									<span>404.</span> Page not <br />
-									found
+									<span>404.</span> Página no <br />
+									encontrada
 								</h2>
 
 							</div>
@@ -51,9 +51,9 @@
 							<div class="col-md-7 right text-medium">
 
 								<p class="wow fadeIn">
-									Infelizmente a página que você tentou acessar não existe. Caso necessite de alguma informação, por gentileza, entre em contato conosco através da nossa <a href="contato" class="hover-multiple-lines">página de contato</a>.<br /><br />
+									Lamentablemente, la página a la que intentó acceder no existe. Si necesita cualquier información, póngase en contacto con nosotros a través de nuestra <a href="contato" class="hover-multiple-lines">página de contacto</a>.<br /><br />
 
-									Ou, volte para a <a href="./" class="hover-multiple-lines">tela inicial</a>.
+									O volver a la <a href="./" class="hover-multiple-lines">página de inicio</a>.
 								</p>
 
 							</div>

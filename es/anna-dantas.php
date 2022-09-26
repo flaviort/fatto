@@ -2,7 +2,7 @@
 <html lang="es">
 
 	<?php
-		$page_title = 'Team | Anna Dantas';
+		$page_title = 'Equipo | Anna Dantas';
 		include('includes/head.php');
 	?>
 
@@ -33,7 +33,7 @@
 
 									<h1 class="text-bigger wow fadeInUp sub">
 										Anna Dantas <br />
-										Associate consultant
+										Consultora Asociada
 									</h1>
 
 									<div class="letter wow fadeInUp">
@@ -49,7 +49,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Attorney
+											Consultora de Derecho Administrativo
 										</p>
 
 									</div>
@@ -59,7 +59,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Postgraduate in Public Management – UDF
+											Abogada
 										</p>
 
 									</div>
@@ -69,7 +69,17 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Compliance Coordinator – MPGE
+											Posgrado en Gestión Pública – UDF
+										</p>
+
+									</div>
+
+									<div class="line wow fadeInUp">
+
+										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
+
+										<p>
+											Coordinadora de Compliance – MPGE
 										</p>
 
 									</div>
@@ -90,7 +100,7 @@
 							<div class="col-lg-6 left wow fadeInUp">
 
 								<p class="text-bigger">
-									About Anna F.
+									Sobre Anna D.
 								</p>
 
 								<?php include('../assets/svg/long-arrow-right.php') ?>
@@ -100,13 +110,13 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Lawyer with expertise in Sanctioning Administrative Law. Postgraduate in Public Management from the UDF (2018). MPGE Compliance Coordinator. Compliance Officer of Rede Governança Brasil. Vice-President of the Association of Advocacy Against Corruption. She was Director of the Anti-Corruption and Compliance Legislation Commission of the OAB-DF. She was an Advisor to the Attorney General of the DNIT and to the Board of Directors of Companhia Docas do Rio de Janeiro. She is a consultant in the area of Administrative Law and the U System (TCU, CGU and AGU).
+									Abogada de Derecho Administrativo Sancionador. Posgrado en Gestión Pública por el Centro Universitário UDF (2018). Coordinadora de Compliance MPGE. Oficial de Compliance de la Rede Governança Brasil. Vicepresidente de la Asociación de Defensa contra la Corrupción. Fue Directora de la Comisión de Legislación Anticorrupción y Compliance de la OAB-DF. Fue asesora del Fiscal General del Departamiento Nacional de Infraestructura de Transportes – DNIT, y del Consejo de Administración de Companhia Docas de Rio de Janeiro. Es consultora de Derecho Administrativo y del Sistema U (TCU, CGU y AGU).
 								</p>
 
 								<div class="follow text-small wow fadeInUp">
 
 									<p>
-										Follow Anna Dantas
+										Seguir Anna Dantas
 									</p>
 
 									<a href="#" target="_blank" class="hover">

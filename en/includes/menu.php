@@ -7,8 +7,8 @@
 </li>
 
 <li>
-    <a href="who-we-are" class="hover <?php active('who-we-are'); ?>">
-        Who we Are
+    <a href="about-us" class="hover <?php active('about-us'); ?>">
+        About us
     </a>
 </li>
 

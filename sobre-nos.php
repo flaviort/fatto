@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="pt-BR">
 
 	<?php
-		$page_title = 'Who we Are';
+		$page_title = 'Sobre nós';
 		include('includes/head.php');
 	?>
 
@@ -27,7 +27,7 @@
 							<div class="col-md-5 left">
 
 								<h2 class="text-bigger title wow fadeInUp">
-									<span>02.</span> Who we Are
+									Sobre nós
 								</h2>
 
 							</div>
@@ -35,11 +35,11 @@
 							<div class="col-md-7 right">
 
 								<p class="text-bigger wow fadeIn sub">
-									Our vocation is to understand and anticipate political and institutional movements that can materialize our clients' businesses.
+									Nossa vocação é entender e antecipar movimentações políticas e institucionais que podem afetar os negócios dos nossos clientes.
 								</p>
 
 								<p class="text-medium wow fadeIn desc">
-									We also build strategic moves that contribute to the forwarding of regulatory systems and assertive communication with our customers.
+									Também construímos movimentações estratégicas que contribuam para o encaminhamento de issues regulatórios e para uma comunicação assertiva dos nossos clientes.
 								</p>
 
 							</div>
@@ -56,7 +56,7 @@
 							<div class="col-md-5 left">
 
 								<div class="letter wow fadeInUp">
-									<?php include('../assets/svg/letter-f.php') ?>
+									<?php include('assets/svg/letter-f.php') ?>
 								</div>
 
 							</div>
@@ -64,9 +64,9 @@
 							<div class="col-md-7 right">
 
 								<p class="text-medium desc wow fadeIn">
-									Fatto was founded in 2015 as a stricto sensu government relations company, based on the expertise of the partners who founded the company. Over time, the acquired know-how about the functioning of the public sector began to generate value for clients interested in understanding and preparing themselves for the decisions of the government, the National Congress and the Judiciary.<br /><br />
+									A Fatto foi fundada como uma empresa stricto sensu de relações governamentais, partindo da expertise dos sócios que fundaram a empresa. Rafael Favetti, sócio-diretor, acumula larga experiência em cargos de liderança nos três poderes, em instituições como o Ministério da Justiça, o Supremo Tribunal Federal e o Senado. Ao longo do tempo, o know-how adquirido sobre o funcionamento do setor público começou a gerar valor para clientes interessados em entender e se preparar para as decisões do governo, do Congresso Nacional e do Judiciário.<br /><br />
 
-									The “inside” look is in Fatto's DNA. We have leaders in our foundation who have held key positions in the public sector, in addition to employees who have been to important institutions in the country. This helps us formulate scenarios and understand the perspectives of those on the other side of the counter.<br /><br />
+									O olhar “de dentro” está no DNA da Fatto. Temos em nossa fundação líderes com passagens por cargos-chave do setor público, além de colaboradores que estiveram em instituições importantes do país. Isso nos ajuda a formular cenários e entender as perspectivas de quem está do outro lado do balcão.<br /><br />
 								</p>
 
 							</div>
@@ -74,7 +74,7 @@
 							<div class="col-md-5 left">
 
 								<h3 class="text-bigger feature wow fadeInUp">
-									Fatto has been located in the heart of Brasília since 2015.
+									A Fatto está localizada no coração de Brasília desde 2015.
 								</h3>
 
 							</div>
@@ -82,9 +82,9 @@
 							<div class="col-md-7 right">
 
 								<p class="text-medium wow fadeIn">
-									We privilege quality over quantity. We don't believe in information overload to demonstrate work. We believe in constant scores on the scenario that presents itself, but always with a curation of what is really important for customers. As a boutique consultancy, our daily mission is to stay in touch with clients and deliver expert insights on issues that affect each of them in different ways.<br /><br />
+									Privilegiamos qualidade ao invés de quantidade. Não acreditamos em information overload para demonstrar trabalho. Acreditamos em pontuações constantes sobre o cenário que se apresenta, mas sempre com uma curadoria do que é realmente importante para os clientes. Como consultoria boutique, nossa missão diária é estar em contato com os clientes e entregar insights especializados sobre questões que afetam cada um deles de formas diferentes.<br /><br />
 
-									We do this based on qualitative and quantitative data, which crystallizes evidence for our scenarios and strategies. We use our privileged location in Brasília/DF to our advantage.
+									Fazemos isso com base em dados qualitativos e quantitativos, que cristalizam evidências para nossos cenários e estratégias. Utilizamos nossa localização privilegiada em Brasília/DF a nosso favor.
 								</p>
 
 							</div>
@@ -112,25 +112,21 @@
 												<div class="top text-medium">
 
 													<p>
-														Non-negotiables
-													</p>
-
-													<p>
 														01 / 05
 													</p>
 
 												</div>
 
 												<h3 class="title text-bigger">
-													Excellence.
+													Excelência.
 												</h3>
 
 												<p class="text-medium desc">
-													We are obsessed with providing the best service: the best monitoring, the best analysis, the best strategy and the best performances.
+													Somos obcecados pela prestação do melhor serviço: o melhor monitoramento, a melhor análise, a melhor estratégia e as melhores atuações.
 												</p>
 
 												<div class="letter">
-													<?php include('../assets/svg/letter-f.php') ?>
+													<?php include('assets/svg/letter-f.php') ?>
 												</div>
 
 											</div>
@@ -140,10 +136,6 @@
 											<div class="box">
 
 												<div class="top text-medium">
-
-													<p>
-														Non-negotiables
-													</p>
 
 													<p>
 														02 / 05
@@ -156,11 +148,11 @@
 												</h3>
 
 												<p class="text-medium desc">
-													We value the best argument to build our analyzes and strategies. We don't care if it comes from the top or bottom of the hierarchical structure. We use the exchange of ideas with customers, market actors and political actors to build our diagnosis.
+													Valorizamos o melhor argumento para construir nossas análises e estratégias. Não nos importa que venha do topo ou da base da estrutura hierárquica. Utilizamos a troca de ideias com clientes, atores de mercado e atores políticos para a construção do nosso diagnóstico.
 												</p>
 
 												<div class="letter">
-													<?php include('../assets/svg/letter-f.php') ?>
+													<?php include('assets/svg/letter-f.php') ?>
 												</div>
 
 											</div>
@@ -170,10 +162,6 @@
 											<div class="box">
 
 												<div class="top text-medium">
-
-													<p>
-														Non-negotiables
-													</p>
 
 													<p>
 														03 / 05
@@ -182,15 +170,15 @@
 												</div>
 
 												<h3 class="title text-bigger">
-													Independence.
+													Independência.
 												</h3>
 
 												<p class="text-medium desc">
-													Fatto has no connection, preference or interest in associating with any party, candidacy or government. Our only concern is for the interests of our customers. We incessantly strive for impartiality.
+													A Fatto não possui conexão, preferência ou interesse em se associar a qualquer partido, candidatura ou governo. Nosso único zelo é pelos interesses dos nossos clientes. Almejamos incessantemente a imparcialidade.
 												</p>
 
 												<div class="letter">
-													<?php include('../assets/svg/letter-f.php') ?>
+													<?php include('assets/svg/letter-f.php') ?>
 												</div>
 
 											</div>
@@ -200,10 +188,6 @@
 											<div class="box">
 
 												<div class="top text-medium">
-
-													<p>
-														Non-negotiables
-													</p>
 
 													<p>
 														04 / 05
@@ -212,15 +196,15 @@
 												</div>
 
 												<h3 class="title text-bigger">
-													Coldness.
+													Frieza.
 												</h3>
 
 												<p class="text-medium desc">
-													Often, the sequence of political events leads many customers to imagine unrealistic scenarios and pay attention to noise. Fatto has stamped in its own name the predilection for concrete events.
+													Muitas vezes, a sequência de acontecimentos políticos leva muitos clientes a imaginar cenários irreais e dar atenção a ruídos. A Fatto tem estampada em seu próprio nome a predileção por acontecimentos concretos.
 												</p>
 
 												<div class="letter">
-													<?php include('../assets/svg/letter-f.php') ?>
+													<?php include('assets/svg/letter-f.php') ?>
 												</div>
 
 											</div>
@@ -232,25 +216,21 @@
 												<div class="top text-medium">
 
 													<p>
-														Non-negotiables
-													</p>
-
-													<p>
 														05 / 05
 													</p>
 
 												</div>
 
 												<h3 class="title text-bigger">
-													Ethics.
+													Ética.
 												</h3>
 
 												<p class="text-medium desc">
-													There is no hypothesis of a non-transparent, non-professional action based on the conflict of public and private interests. Fatto is committed to its own Code of Ethics, anti-corruption legislation and the strictest compliance guidelines.
+													Não há hipótese de uma atuação não-transparente, não-profissional e pautada pelo conflito de interesses públicos e privados. A Fatto é comprometida com seu próprio Código de Ética, com a legislação anticorrupção e com as diretrizes mais rígidas de compliance.
 												</p>
 
 												<div class="letter">
-													<?php include('../assets/svg/letter-f.php') ?>
+													<?php include('assets/svg/letter-f.php') ?>
 												</div>
 
 											</div>
@@ -273,8 +253,8 @@
 			<?php include('includes/footer.php'); ?>
 
 			<footer>
-				<script src="../assets/js/framework.js"></script>
-				<script src="../assets/js/who-we-are.js" defer></script>
+				<script src="assets/js/framework.js"></script>
+				<script src="assets/js/who-we-are.js" defer></script>
 			</footer>
 
 		</div>

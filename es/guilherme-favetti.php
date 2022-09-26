@@ -2,7 +2,7 @@
 <html lang="es">
 
 	<?php
-		$page_title = 'Team | Guilherme Favetti';
+		$page_title = 'Equipo | Guilherme Favetti';
 		include('includes/head.php');
 	?>
 
@@ -33,7 +33,7 @@
 
 									<h1 class="text-bigger wow fadeInUp sub">
 										Guilherme Favetti <br />
-										Partner
+										Socio
 									</h1>
 
 									<div class="letter wow fadeInUp">
@@ -49,7 +49,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Attorney
+											Consultor de Derecho Penal
 										</p>
 
 									</div>
@@ -59,7 +59,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Master's Degree in Contemporary Law – UPPR
+											Abogado
 										</p>
 
 									</div>
@@ -69,7 +69,17 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Master in Constitutional Law – IDP
+											Posgrado en Derecho Contemporáneo – UPPR
+										</p>
+
+									</div>
+
+									<div class="line wow fadeInUp">
+
+										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
+
+										<p>
+											Máster en Derecho Constitucional – IDP
 										</p>
 
 									</div>
@@ -90,7 +100,7 @@
 							<div class="col-lg-6 left wow fadeInUp">
 
 								<p class="text-bigger">
-									About Guilherme F.
+									Sobre Guilherme F.
 								</p>
 
 								<?php include('../assets/svg/long-arrow-right.php') ?>
@@ -100,13 +110,13 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Attorney. Master in Constitutional Law from IDP (2020). Postgraduate in Contemporary Law with emphasis in Public Law from Universidade Positivo – PR (2012). Advisor at the Public Ministry of Paraná with expertise in Criminal Courts and Courts of Criminal Executions (2012-2015). He is a consultant in the Judiciary area, focusing on Criminal Law and its consequences for the institutional scenario.
+									Abogado. Máster en Derecho Constitucional por el Instituto de Derecho Público – IDP (2020). Posgrado en Derecho Contemporáneo con énfasis en Derecho Público de la Universidade Positivo – PR (2012). Asesor del Ministerio Público de Paraná con experiencia en Juzgados Penales y Juzgados de Ejecución Penal (2012-2015). Es consultor en el Poder Judicial, con foco en Derecho Penal y sus consecuencias para el escenario institucional.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">
 
 									<p>
-										Follow Guilherme Favetti
+										Seguir Guilherme Favetti
 									</p>
 
 									<a href="https://www.linkedin.com/in/guilherme-favetti-1a8a90104/" target="_blank" class="hover">

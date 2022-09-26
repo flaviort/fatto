@@ -21,17 +21,17 @@
 					<div class="bottom-blocks text-medium">
 						<div class="inner">
 
-							<a href="who-we-are" class="arrow wow fadeInUp" data-wow-delay="1.2s">
+							<a href="about-us" class="arrow wow fadeInUp" data-wow-delay="1.2s">
 								<?php include('../assets/svg/arrow-right.php') ?>
 							</a>
 
-							<a href="who-we-are" class="block green wow fadeInUp" data-wow-delay=".6s">
+							<a href="about-us" class="block green wow fadeInUp" data-wow-delay=".6s">
 								<p class="hover-multiple-lines">
-									Independence to analyze the institutional scenario in Latin America.
+									Independence to analyze the political and institutional scenario in Latin America.
 								</p>
 							</a>
 
-							<a href="who-we-are" class="block wow fadeInUp">
+							<a href="about-us" class="block wow fadeInUp">
 								<p class="hover-multiple-lines">
 									We believe that understanding government is essential for any business.
 								</p>

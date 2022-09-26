@@ -49,6 +49,16 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
+											Criminal law consultant
+										</p>
+
+									</div>
+
+									<div class="line wow fadeInUp">
+
+										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
+
+										<p>
 											Attorney
 										</p>
 

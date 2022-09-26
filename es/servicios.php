@@ -2,7 +2,7 @@
 <html lang="es">
 
 	<?php
-		$page_title = 'Services';
+		$page_title = 'Servicios';
 		include('includes/head.php');
 	?>
 
@@ -26,7 +26,7 @@
 							<div class="col-12">
 
 								<h2 class="text-bigger title wow fadeInUp">
-									<span>04.</span> Services
+									Servicios
 								</h2>
 
 							</div>
@@ -45,7 +45,7 @@
 									<div class="top text-medium">
 
 										<p>
-											Services
+											Servicios
 										</p>
 
 										<p>
@@ -55,11 +55,11 @@
 									</div>
 
 									<h3 class="title text-bigger">
-										Political Analysis
+										Análisis Político
 									</h3>
 
 									<p class="text-medium desc">
-										Our policy analysis service is designed for investors, companies, associations and others interested in understanding complex political and institutional contexts. Our flagship is the political analysis service focused on Brazil, although we also work in the analysis of other Latin American countries. We base our work on facts, data and evidence to build our prospective view on the main conjunctural developments that affect our clients.
+										Nuestro servicio de análisis político está diseñado para inversionistas, empresas, asociaciones y otras personas interesadas en comprender contextos políticos y institucionales complejos. Nuestro flagship es el servicio de análisis político centrado en Brasil, aunque también trabajamos en el análisis de otros países latinoamericanos. Basamos nuestro trabajo en hechos, datos y evidencias para construir nuestras hipótesis sobre los principales desarrollos coyunturales que afectan a nuestros clientes.
 									</p>
 
 									<div class="logo">
@@ -73,7 +73,7 @@
 									<div class="top text-medium">
 
 										<p>
-											Services
+											Servicios
 										</p>
 
 										<p>
@@ -83,11 +83,11 @@
 									</div>
 
 									<h3 class="title text-bigger">
-										Regulatory Intelligence
+										Inteligencia Regulatoria
 									</h3>
 
 									<p class="text-medium desc">
-										The public power has a huge amount of rules, laws and regulations that affect companies from the most varied sectors of the economy, unions, associations, government agencies and third sector organizations. To relate to the government, we use a methodology based on monitoring, analysis, strategy and action. Our objective is to ensure that the interests of our clients are heard throughout the process of building public policies and changes in Brazilian legislation.
+										El poder público presenta una enorme cantidad de normas, leyes y reglamentos que afectan a empresas de los más variados sectores de la economía, sindicatos, asociaciones, organismos gubernamentales y organizaciones del tercer sector. Para relacionarnos con el gobierno utilizamos una metodología basada en el seguimiento, el análisis, la estrategia y la acción. Nuestro objetivo es asegurar que los intereses de nuestros clientes sean escuchados en todo el proceso de construcción de políticas públicas y cambios en la legislación brasileña.
 									</p>
 
 									<div class="logo">
@@ -101,7 +101,7 @@
 									<div class="top text-medium">
 
 										<p>
-											Services
+											Servicios
 										</p>
 
 										<p>
@@ -111,11 +111,11 @@
 									</div>
 
 									<h3 class="title text-bigger">
-										Strategic Communication
+										Comunicación Estratégica
 									</h3>
 
 									<p class="text-medium desc">
-										We build communication strategies for campaigns that aim to adhere to political agents, decision makers or public opinion. Our strategic communications team also works in crisis management.
+										Construimos estrategias de comunicación para campañas que tienen como objetivo la adhesión de agentes políticos, decisores y tambiém la opinión pública. Nuestro equipo de comunicación estratégica también trabaja en la gestión de crisis.
 									</p>
 
 									<div class="logo">
@@ -129,7 +129,7 @@
 									<div class="top text-medium">
 
 										<p>
-											Services
+											Servicios
 										</p>
 
 										<p>
@@ -143,7 +143,7 @@
 									</h3>
 
 									<p class="text-medium desc">
-										Our consultants speak to boards, investment funds, associations and educational institutions on topics concerning government, public policies, the Legislative Power, the Judiciary Power.
+										Nuestros consultores hablan ante directorios, fondos de inversión, asociaciones y instituciones educativas sobre temas gubernamentales, políticas públicas, Poder Legislativo y Poder Judicial.
 									</p>
 
 									<div class="logo">
@@ -164,7 +164,7 @@
 							<div class="col-12">
 
 								<h3 class="text-bigger wow fadeInUp">
-									Policy analysis cases:
+									Ejemplos en los últimos años:
 								</h3>
 
 								<div class="cases text-medium">
@@ -172,19 +172,19 @@
 										
 										<div class="col-lg-4">
 											<p>
-												Anticipation of change in the Petrobras Presidency (Castello Branco's departure).
+												Anticipación del cambio en la Presidencia de Petrobras (salida de Castello Branco).
 											</p>
 										</div>
 
 										<div class="col-lg-4">
 											<p>
-												Constant analysis of the 2022 electoral movements: agreement on the PSDB (Leite x Doria) primaries, maintenance of Doria's candidacy throughout the first half of 2022 and withdrawal in June.
+												Análisis constante de los movimientos electorales de 2022: acuerdo en las primarias del PSDB (Leite x Doria), mantenimiento de la candidatura de Doria durante todo el primer semestre de 2022 y retirada en junio.
 											</p>
 										</div>
 
 										<div class="col-lg-4">
 											<p>
-												Correct call on approval of PEC 15/2022.
+												Predicción correcta de aprobación de sobre aprovação de la PEC 15/2022.
 											</p>
 										</div>
 

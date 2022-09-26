@@ -2,30 +2,30 @@
 
 <li>
     <a href="./" class="hover <?php active(''); ?>">
-        Home
+        Inicio
     </a>
 </li>
 
 <li>
-    <a href="who-we-are" class="hover <?php active('who-we-are'); ?>">
-        Who we Are
+    <a href="quienes-somos" class="hover <?php active('quienes-somos'); ?>">
+        Quiénes somos
     </a>
 </li>
 
 <li>
-    <a href="team" class="hover <?php active('team'); ?>">
-        Team
+    <a href="equipo" class="hover <?php active('equipo'); ?>">
+        Equipo
     </a>
 </li>
 
 <li>
-    <a href="services" class="hover <?php active('services'); ?>">
-        Services
+    <a href="servicios" class="hover <?php active('servicios'); ?>">
+        Servicios
     </a>
 </li>
 
 <li>
-    <a href="contact" class="hover <?php active('contact'); ?>">
-        Contact
+    <a href="contacto" class="hover <?php active('contacto'); ?>">
+        Contacto
     </a>
 </li>

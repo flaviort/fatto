@@ -2,7 +2,7 @@
 <html lang="es">
 
 	<?php
-		$page_title = 'Contact | Career';
+		$page_title = 'Contacto';
 		include('includes/head.php');
 		header("Access-Control-Allow-Origin: *");
 		header("Access-Control-Allow-Methods: PUT, GET, POST");
@@ -29,8 +29,7 @@
 							<div class="col-12">
 
 								<h2 class="text-bigger title wow fadeInUp">
-									<span>05.</span> Contact <br />
-									Career
+									Contacto
 								</h2>
 
 							</div>
@@ -50,14 +49,14 @@
 										<div class="col-md-6 wow fadeInUp">
 
 											<p class="text-medium">
-												Contact Fatto.
+												Contactar a Fatto.
 											</p>
 
 										</div>
 
 										<div class="col-md-6 wow fadeInUp">
 
-											<?php include('../assets/svg/logo-with-slogan.php') ?>
+											<?php include('../assets/svg/logo-with-slogan-es.php') ?>
 
 										</div>
 
@@ -73,10 +72,10 @@
 												<div class="form-line wow fadeInUp">
 
 													<label for="nome" class="label text-medium">
-														Complete Name
+														Nombre completo
 													</label>
 
-													<input type="text" name="Nome" id="nome" class="input text-medium" placeholder="Type here" required />
+													<input type="text" name="Nome" id="nome" class="input text-medium" placeholder="Escriba aquí" required />
 													
 												</div>
 
@@ -86,27 +85,27 @@
 														E-mail
 													</label>
 
-													<input type="email" name="Email" id="email" class="input text-medium" placeholder="Type here" required />
+													<input type="email" name="Email" id="email" class="input text-medium" placeholder="Escriba aquí" required />
 													
 												</div>
 
 												<div class="form-line wow fadeInUp">
 
 													<label for="telefone" class="label text-medium">
-														Phone
+														Teléfono
 													</label>
 
-													<input type="text" name="Telefone" id="telefone" class="input text-medium" placeholder="Type here" />
+													<input type="text" name="Telefone" id="telefone" class="input text-medium" placeholder="Escriba aquí" />
 													
 												</div>
 
 												<div class="form-line wow fadeInUp">
 
 													<label for="horario" class="label text-medium">
-														Best time to talk
+														Mejor momento para hablar
 													</label>
 
-													<input type="text" name="Horario" id="horario" class="input text-medium" placeholder="Type here" />
+													<input type="text" name="Horario" id="horario" class="input text-medium" placeholder="Escriba aquí" />
 													
 												</div>
 
@@ -117,10 +116,10 @@
 												<div class="form-line wow fadeInUp">
 
 													<label for="mensagem" class="label text-medium">
-														Leave your message
+														Deja tu mensaje
 													</label>
 
-													<textarea name="Mensagem" id="mensagem" class="input textarea text-medium" placeholder="Type here" required></textarea>
+													<textarea name="Mensagem" id="mensagem" class="input textarea text-medium" placeholder="Escriba aquí" required></textarea>
 
 												</div>
 
@@ -130,7 +129,7 @@
 												
 												<button type="submit" class="text-small green-button wow fadeInUp">
 													<span class="loading"><?php include('../assets/svg/spinner.php') ?></span>
-													Submit
+													Enviar
 												</button>
 
 												<div class="cf"></div>
@@ -155,7 +154,7 @@
 										<div class="col-md-6">
 
 											<p class="wow fadeInUp">
-												Zipcode: 71605-310
+												CEP: 71605-310
 											</p>
 
 										</div>

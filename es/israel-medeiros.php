@@ -2,7 +2,7 @@
 <html lang="es">
 
 	<?php
-		$page_title = 'Team | Israel Medeiros';
+		$page_title = 'Equipo | Israel Medeiros';
 		include('includes/head.php');
 	?>
 
@@ -33,7 +33,7 @@
 
 									<h1 class="text-bigger wow fadeInUp sub">
 										Israel Medeiros <br />
-										Analyst
+										Analista Político
 									</h1>
 
 									<div class="letter wow fadeInUp">
@@ -49,7 +49,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Graduated in Journalism - UNIP
+											Graduado en Periodismo - UNIP
 										</p>
 
 									</div>
@@ -59,7 +59,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Specialist in Macroeconomics and International Finance - FGV
+											Especialista en Macroeconomía y Finanzas Internacionales - FGV
 										</p>
 
 									</div>
@@ -69,7 +69,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											MBA in Capital Markets from Saint Paul Business School.
+											MBA en Mercado de Capitales por la Saint Paul Escola de Negócios
 										</p>
 
 									</div>
@@ -90,7 +90,7 @@
 							<div class="col-lg-6 left wow fadeInUp">
 
 								<p class="text-bigger">
-									About Israel M.
+									Sobre Israel M.
 								</p>
 
 								<?php include('../assets/svg/long-arrow-right.php') ?>
@@ -100,13 +100,13 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Graduated in Journalism from UNIP. Specialist in Macroeconomics and International Finance from FGV and MBA in Capital Markets from Saint Paul Escola de Negócios. He was part of the advisory team of the Superior Electoral Court – TSE. He was a political and economics reporter for the Correio Braziliense newspaper. Creator and producer of Politikos Podcast.
+									Graduado en Periodismo por la Universidad Paulista – UNIP. Especialista en Macroeconomía y Finanzas Internacionales por la Fundación Getúlio Vargas – FGV y MBA en Mercado de Capitales por la Saint Paul Escola de Negócios. Ha trabajado en el Tribunal Superior Electoral – TSE durante las elecciones de 2018. Fue reportero de política y economía del diario Correio Braziliense. Creador y productor del Politikos Podcast.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">
 
 									<p>
-										Follow Israel Medeiros
+										Seguir Israel Medeiros
 									</p>
 
 									<a href="https://www.linkedin.com/in/israelmedeiros/" target="_blank" class="hover">

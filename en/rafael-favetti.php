@@ -33,7 +33,7 @@
 
 									<h1 class="text-bigger wow fadeInUp sub">
 										Rafael Favetti <br />
-										partner
+										Partner
 									</h1>
 
 									<div class="letter wow fadeInUp">
@@ -69,7 +69,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Master in Political Science – UNB
+											Master in Political Science – UnB
 										</p>
 
 									</div>

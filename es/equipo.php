@@ -2,7 +2,7 @@
 <html lang="es">
 
 	<?php
-		$page_title = 'Team';
+		$page_title = 'Equipo';
 		include('includes/head.php');
 	?>
 
@@ -22,7 +22,7 @@
 							<div class="col-md-5 left">
 
 								<h2 class="text-bigger title wow fadeInUp">
-									<span>03.</span> Team
+									Equipo
 								</h2>
 
 							</div>
@@ -30,11 +30,11 @@
 							<div class="col-md-7 right">
 
 								<p class="text-bigger wow fadeIn sub">
-									Our vocation is to understand and anticipate political and institutional movements that may affect our clients' businesses.
+									Como consultoría política boutique, nuestro equipo valora la personalización y la proximidad para satisfacer las demandas de los clientes.
 								</p>
 
 								<p class="text-medium wow fadeIn desc">
-									We also build strategic moves that contribute to the forwarding of regulatory systems and assertive communication with our customers.
+									Para comprender escenarios políticos e institucionales complejos, valoramos diferentes áreas de actividad. Contamos con consultores con trayectoria de trabajo en el Poder Ejecutivo, Legislativo, Judicial, municipalidades, sector financiero y periodismo.
 								</p>
 
 							</div>
@@ -47,13 +47,13 @@
 				<section id="grid">
 					
 					<div class="link wow fadeIn" data-wow-delay=".1s">
-						<a href="anna-dantas">
+						<a href="rafael-favetti">
 							
-							<img src="../assets/img/team/anna.jpg" alt="Anna Dantas">
+							<img src="../assets/img/team/rafael.jpg" alt="Rafael Favetti">
 							
 							<h3 class="text-bigger">
-								Anna <br />
-								Dantas
+								Rafael <br />
+								Favetti
 							</h3>
 
 							<div class="more">
@@ -87,13 +87,13 @@
 					</div>
 
 					<div class="link wow fadeIn" data-wow-delay=".4s">
-						<a href="rafael-favetti">
+						<a href="anna-dantas">
 							
-							<img src="../assets/img/team/rafael.jpg" alt="Rafael Favetti">
+							<img src="../assets/img/team/anna.jpg" alt="Anna Dantas">
 							
 							<h3 class="text-bigger">
-								Rafael <br />
-								Favetti
+								Anna <br />
+								Dantas
 							</h3>
 
 							<div class="more">
@@ -132,13 +132,13 @@
 
 					<div class="text wow fadeIn" data-wow-delay=".4s">
 						<p class="text-medium">
-							We believe in Political Intelligence.
+							Inteligencia para anticipar riesgos políticos y regulatorios.
 						</p>
 					</div>
 
 					<div class="text wow fadeIn" data-wow-delay=".1s">
 						<p class="text-medium">
-							We are a multidisciplinary team.
+							Somos un equipo multidisciplinario.
 						</p>
 					</div>
 
@@ -221,81 +221,57 @@
 							<div class="col-12">
 
 								<h2 class="text-bigger feature wow fadeInUp">
-									Affiliations
+									Afiliaciones
 								</h2>
 
 								<div class="blocks">
 									<div class="row">
 
-										<div class="col-sm-6 col-lg-4 wow fadeInUp">
+										<div class="col-sm-6 wow fadeInUp">
 
 											<p class="text-small">
 												01.
 											</p>
 
-											<p class="text-medium" >
-												Favetti Lawyer Society
-											</p>
+											<a href="https://www.favetti.adv.br/" target="_blank" class="text-medium hover-multiple-lines">
+												Favetti Sociedad de Abogados
+											</a>
 
 										</div>
 
-										<div class="col-sm-6 col-lg-4 wow fadeInUp" data-wow-delay=".1s">
+										<div class="col-sm-6 wow fadeInUp" data-wow-delay=".1s">
 
 											<p class="text-small">
 												02.
 											</p>
 
-											<p class="text-medium" >
-												Brazilian Association of Institutional and Governmental Relations – (ABRIG)
-											</p>
+											<a href="https://abrig.org.br/" target="_blank" class="text-medium hover-multiple-lines">
+												Asociación Brasileña de Relaciones Institucionales y Gubernamentales – ABRIG
+											</a>
 
 										</div>
 
-										<div class="col-sm-6 col-lg-4 wow fadeInUp" data-wow-delay=".2s">
+										<div class="col-sm-6 wow fadeInUp">
 
 											<p class="text-small">
 												03.
 											</p>
 
-											<p class="text-medium" >
-												Institute Victor Nunes Leal
-											</p>
+											<a href="https://ivnl.com.br/" target="_blank" class="text-medium hover-multiple-lines">
+												Instituto Víctor Nunes Leal
+											</a>
 
 										</div>
 
-										<div class="col-sm-6 col-lg-4 wow fadeInUp">
+										<div class="col-sm-6 wow fadeInUp" data-wow-delay=".1s">
 
 											<p class="text-small">
 												04.
 											</p>
 
-											<p class="text-medium" >
-												Simply dummy text of the printing and typesetting industry. Lorem Ipsum has.
-											</p>
-
-										</div>
-
-										<div class="col-sm-6 col-lg-4 wow fadeInUp" data-wow-delay=".1s">
-
-											<p class="text-small">
-												05.
-											</p>
-
-											<p class="text-medium" >
-												Simply dummy text of the printing and typesetting industry. Lorem Ipsum has.
-											</p>
-
-										</div>
-
-										<div class="col-sm-6 col-lg-4 wow fadeInUp" data-wow-delay=".2s">
-
-											<p class="text-small">
-												06.
-											</p>
-
-											<p class="text-medium" >
-												Simply dummy text of the printing and typesetting industry. Lorem Ipsum has.
-											</p>
+											<a href="https://www.migalhas.com.br/coluna/inteligencia-politica" target="_blank" class="text-medium hover-multiple-lines">
+												Migalhas
+											</a>
 
 										</div>
 

@@ -69,7 +69,7 @@
 										<?php include('assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Pós em Política Estratégica pela – FLACSO
+											Comunicação Política Estratégica - FLACSO México
 										</p>
 
 									</div>

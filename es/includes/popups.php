@@ -3,16 +3,16 @@
 	<div class="box">
 		
         <h2 class="text-bigger title">
-            Success
+            Éxito
         </h2>
 
         <p class="text-medium desc">
-            Your message has been sent successfully! <br />
-            We will contact you as soon as possible.
+            ¡Tu mensaje ha sido enviado exitosamente! <br />
+            Nos pondremos en contacto con usted tan pronto como sea posible.
         </p>
         
         <button class="green-button text-small" onclick="$.fancybox.close()">
-            Close
+            Cerca
         </button>
 
 	</div>
@@ -27,12 +27,12 @@
         </h2>
 
         <p class="text-medium desc">
-            There was an error sending your message. <br />
-            Please try again in a few minutes.
+            Hubo un error al enviar su mensaje. <br />
+            Vuelva a intentarlo en unos minutos.
         </p>
 
         <button class="green-button text-small" onclick="$.fancybox.close()">
-            Close
+            Cerca
         </button>
 
 	</div>

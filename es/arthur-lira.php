@@ -2,7 +2,7 @@
 <html lang="es">
 
 	<?php
-		$page_title = 'Team | Arthur Lira';
+		$page_title = 'Equipo | Arthur Lira';
 		include('includes/head.php');
 	?>
 
@@ -33,7 +33,7 @@
 
 									<h1 class="text-bigger wow fadeInUp sub">
 										Arthur Lira <br />
-										Analyst
+										Analista Político
 									</h1>
 
 									<div class="letter wow fadeInUp">
@@ -49,7 +49,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Graduate in Political Science – UFPE
+											Graduado en Ciencias Políticas – UFPE
 										</p>
 
 									</div>
@@ -70,7 +70,7 @@
 							<div class="col-lg-6 left wow fadeInUp">
 
 								<p class="text-bigger">
-									About Arthur L.
+									Sobre Arthur L.
 								</p>
 
 								<?php include('../assets/svg/long-arrow-right.php') ?>
@@ -80,13 +80,13 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Graduated in Political Science from the Federal University of Pernambuco. He was administrative director of Virtù Consultoria Política and was an intern at the Legislative Assembly of the State of Pernambuco.
+									Graduado en Ciencias Políticas por la Universidad Federal de Pernambuco. Fue director administrativo de Virtu Consultoria Política y aprendiz en la Asamblea Legislativa del Estado de Pernambuco.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">
 
 									<p>
-										Follow Arthur Lira
+										Seguir Arthur Lira
 									</p>
 
 									<a href="https://www.linkedin.com/in/arthur-santos-lira-084292145/" target="_blank" class="hover">

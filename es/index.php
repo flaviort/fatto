@@ -15,25 +15,25 @@
 				<section id="banner">
 
 					<p class="text-smaller side-text">
-						<span>Fatto Political Intelligence – All rights reserved – 2022</span>
+						<span>Fatto Inteligencia Política – Reservados todos los derechos – 2022</span>
 					</p>
 
 					<div class="bottom-blocks text-medium">
 						<div class="inner">
 
-							<a href="who-we-are" class="arrow wow fadeInUp" data-wow-delay="1.2s">
+							<a href="quienes-somos" class="arrow wow fadeInUp" data-wow-delay="1.2s">
 								<?php include('../assets/svg/arrow-right.php') ?>
 							</a>
 
-							<a href="who-we-are" class="block green wow fadeInUp" data-wow-delay=".6s">
+							<a href="quienes-somos" class="block green wow fadeInUp" data-wow-delay=".6s">
 								<p class="hover-multiple-lines">
-									Independence to analyze the institutional scenario in Latin America.
+									Tenemos independencia para analisar el escenario institucional en Latinoamérica.
 								</p>
 							</a>
 
-							<a href="who-we-are" class="block wow fadeInUp">
+							<a href="quienes-somos" class="block wow fadeInUp">
 								<p class="hover-multiple-lines">
-									We believe that understanding government is essential for any business.
+									Creemos que la compreensión de lo que pasa en el govierno es imprescindible para qualquier negocio.
 								</p>
 							</a>
 

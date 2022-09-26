@@ -7,7 +7,7 @@
 			<div class="col-lg-6">
 
 				<p class="text-bigger wow fadeInUp">
-					See also:
+					Ver también:
 				</p>
 
 				<div class="team">
@@ -25,7 +25,7 @@
 									<br />
 									
 									<span class="text-medium">
-										(Partner)
+										(Socio)
 									</span>
 				
 								</h3>
@@ -45,7 +45,7 @@
 									<br />
 									
 									<span class="text-medium">
-										(Partner)
+										(Socio)
 									</span>
 				
 								</h3>
@@ -65,7 +65,7 @@
 									<br />
 									
 									<span class="text-medium">
-										(Partner)
+										(Socio)
 									</span>
 				
 								</h3>
@@ -85,7 +85,7 @@
 									<br />
 									
 									<span class="text-medium">
-										(Analyst)
+										(Analista)
 									</span>
 				
 								</h3>
@@ -105,7 +105,7 @@
 									<br />
 									
 									<span class="text-medium">
-										(Analyst)
+										(Analista)
 									</span>
 				
 								</h3>
@@ -125,7 +125,7 @@
 									<br />
 									
 									<span class="text-medium">
-										(Analyst)
+										(Consultora)
 									</span>
 				
 								</h3>
@@ -145,7 +145,7 @@
 									<br />
 									
 									<span class="text-medium">
-										(Consultant)
+										(Consultora)
 									</span>
 				
 								</h3>

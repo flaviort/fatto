@@ -85,6 +85,51 @@ body.services {
                 padding: 3rem 3rem 10rem 3rem;
             }
 
+            &:nth-child(1) {
+                &:before {
+                    content: "";
+                    position: absolute;
+                    right: 100%;
+                    top: 50%;
+                    transform: translateY(-50%);
+                    width: .5rem;
+                    height: 1px;
+                    background-color: $green;
+
+                    @media #{$mq-sm-min} {
+                        height: 2px;
+                        width: 1rem;
+                    }
+
+                    @media #{$mq-md-min} {
+                        width: 3rem;
+                    }
+                }
+
+                &:after {
+                    top: calc(50% - 1px);
+                }
+            }
+
+            &:after {
+                content: "";
+                position: absolute;
+                right: calc(100% + .5rem);
+                top: -4rem;
+                width: 1px;
+                height: calc(100% + 4rem);
+                background-color: $green;
+
+                @media #{$mq-sm-min} {
+                    right: calc(100% + 1rem);
+                    width: 2px;
+                }
+
+                @media #{$mq-md-min} {
+                    right: calc(100% + 3rem);
+                }
+            }
+
             .top {
                 display: flex;
                 align-items: flex-start;
@@ -142,6 +187,68 @@ body.services {
 
         @media #{$mq-lg-min} {
             padding: 4rem 0 10rem 0;
+        }
+
+        .col-12 {
+            position: relative;
+
+            &:before {
+                content: "";
+                position: absolute;
+                top: -8rem;
+                right: calc(100% + .5rem - 15px);
+                width: 1px;
+                background-color: $green;
+                height: 9.5rem;
+
+                @media #{$mq-sm-min} {
+                    height: 9.7rem;
+                    width: 2px;
+                    right: calc(100% + 1rem - 15px);
+                }
+
+                @media #{$mq-md-min} {
+                    right: calc(100% + 3rem - 15px);
+                }
+
+                @media #{$mq-lg-min} {
+                    height: 10rem;
+                }
+
+                @media #{$mq-xl-min} {
+                    height: 10.3rem;
+                }
+            }
+
+            &:after {
+                content: "";
+                position: absolute;
+                left: calc(-.5rem + 15px);
+                width: .4rem;
+                height: 1px;
+                background-color: $green;
+                top: calc(1.5rem - 1px);
+
+                @media #{$mq-sm-min} {
+                    width: .7rem;
+                    top: calc(1.7rem - 2px);
+                    left: calc(-1rem + 15px);
+                    height: 2px;
+                }
+
+                @media #{$mq-md-min} {
+                    left: calc(-3rem + 15px);
+                    width: 2rem;
+                }
+
+                @media #{$mq-lg-min} {
+                    top: calc(2rem - 2px);
+                }
+
+                @media #{$mq-xl-min} {
+                    top: calc(2.3rem - 2px);
+                }
+            }
         }
 
         .cases {

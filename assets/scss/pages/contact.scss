@@ -33,32 +33,6 @@ body.contact {
         .container {
             position: relative;
             z-index: 2;
-
-            .title {
-                position: relative;
-                padding-left: 3.2rem;
-                
-                @media #{$mq-sm-min} {
-                    padding-left: 3.5rem;
-                }
-
-                @media #{$mq-md-min} {
-                    padding-left: 4rem;
-                }
-                
-                @media #{$mq-lg-min} {
-                    padding-left: 4.35rem;
-                }
-
-                @media #{$mq-xl-min} {
-                    padding-left: 5rem;
-                }
-
-                span {
-                    position: absolute;
-                    left: 0;
-                }
-            }
         }
     }
 

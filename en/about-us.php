@@ -2,7 +2,7 @@
 <html lang="en-US">
 
 	<?php
-		$page_title = 'Who we Are';
+		$page_title = 'About us';
 		include('includes/head.php');
 	?>
 
@@ -27,7 +27,7 @@
 							<div class="col-md-5 left">
 
 								<h2 class="text-bigger title wow fadeInUp">
-									<span>02.</span> Who we Are
+									About us
 								</h2>
 
 							</div>
@@ -39,7 +39,7 @@
 								</p>
 
 								<p class="text-medium wow fadeIn desc">
-									We also build strategic moves that contribute to the forwarding of regulatory systems and assertive communication with our customers.
+									We also build strategic moves that contribute to the forwarding of regulatory issues and assertive communication with our customers.
 								</p>
 
 							</div>
@@ -64,7 +64,7 @@
 							<div class="col-md-7 right">
 
 								<p class="text-medium desc wow fadeIn">
-									Fatto was founded in 2015 as a stricto sensu government relations company, based on the expertise of the partners who founded the company. Over time, the acquired know-how about the functioning of the public sector began to generate value for clients interested in understanding and preparing themselves for the decisions of the government, the National Congress and the Judiciary.<br /><br />
+									Fatto was founded as a stricto sensu government relations company, based on the expertise of the partners who founded the company. Rafael Favetti, managing partner, has extensive experience in leadership positions in the three branches of government, in institutions such as the Ministry of Justice, the Federal Supreme Court and the Senate. Over time, the acquired know-how about the functioning of the public sector began to generate value for clients interested in understanding and preparing themselves for the decisions of the government, the National Congress and the Judiciary.<br /><br />
 
 									The “inside” look is in Fatto's DNA. We have leaders in our foundation who have held key positions in the public sector, in addition to employees who have been to important institutions in the country. This helps us formulate scenarios and understand the perspectives of those on the other side of the counter.<br /><br />
 								</p>
@@ -112,10 +112,6 @@
 												<div class="top text-medium">
 
 													<p>
-														Non-negotiables
-													</p>
-
-													<p>
 														01 / 05
 													</p>
 
@@ -142,10 +138,6 @@
 												<div class="top text-medium">
 
 													<p>
-														Non-negotiables
-													</p>
-
-													<p>
 														02 / 05
 													</p>
 
@@ -156,7 +148,7 @@
 												</h3>
 
 												<p class="text-medium desc">
-													We value the best argument to build our analyzes and strategies. We don't care if it comes from the top or bottom of the hierarchical structure. We use the exchange of ideas with customers, market actors and political actors to build our diagnosis.
+													We value the best argument to build our analyzes and strategies. We don't care whether it comes from the top or bottom of the hierarchical structure. We use the exchange of ideas with customers, market actors and political actors to build our diagnosis.
 												</p>
 
 												<div class="letter">
@@ -170,10 +162,6 @@
 											<div class="box">
 
 												<div class="top text-medium">
-
-													<p>
-														Non-negotiables
-													</p>
 
 													<p>
 														03 / 05
@@ -202,10 +190,6 @@
 												<div class="top text-medium">
 
 													<p>
-														Non-negotiables
-													</p>
-
-													<p>
 														04 / 05
 													</p>
 
@@ -230,10 +214,6 @@
 											<div class="box">
 
 												<div class="top text-medium">
-
-													<p>
-														Non-negotiables
-													</p>
 
 													<p>
 														05 / 05

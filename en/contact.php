@@ -2,7 +2,7 @@
 <html lang="en-US">
 
 	<?php
-		$page_title = 'Contact | Career';
+		$page_title = 'Contact';
 		include('includes/head.php');
 		header("Access-Control-Allow-Origin: *");
 		header("Access-Control-Allow-Methods: PUT, GET, POST");
@@ -29,8 +29,7 @@
 							<div class="col-12">
 
 								<h2 class="text-bigger title wow fadeInUp">
-									<span>05.</span> Contact <br />
-									Career
+									Contact
 								</h2>
 
 							</div>
@@ -57,7 +56,7 @@
 
 										<div class="col-md-6 wow fadeInUp">
 
-											<?php include('../assets/svg/logo-with-slogan.php') ?>
+											<?php include('../assets/svg/logo-with-slogan-en.php') ?>
 
 										</div>
 
