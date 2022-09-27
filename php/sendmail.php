@@ -87,7 +87,7 @@
         		
 		$mail->SMTPAuth = true;
 		$mail->Username = "envio@fattopolitica.com.br";
-		$mail->Password = "010203Abc!!!";
+		$mail->Password = "";
 		
 		//echo "true";
 		if($mail->Send()) {
