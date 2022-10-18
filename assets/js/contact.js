@@ -4,7 +4,14 @@ if ($(window).width() > 767) {
 }
 
 // contact form
-if($('html').attr('lang')=="pt-BR"){ 
+if($('html').attr('lang')=="pt-BR"){
+
+	$(document).ready(function() {
+		if (window.location.href.indexOf("sucesso") > -1) {
+			$.fancybox.open($("#contact-success"));
+		};
+	});
+
 	$("#contact-form").validate({
 		highlight: function (element){
 			$(element).closest(".form-line").addClass("error");
@@ -16,40 +23,17 @@ if($('html').attr('lang')=="pt-BR"){
 			Nome: "Este campo é obrigatório",
 			Email: "Este campo é obrigatório",
 			Mensagem: "Este campo é obrigatório",
-		},
-		submitHandler: function(form) {
-			
-			var form = $('#contact-form');
-			
-			$('.green-button').addClass('sending');
-			
-			$.ajax({
-				type: 'POST',
-				url: 'php/sendmail.php',
-				data: form.serialize(),
-				success: function (result) {
-					if (result == 'true') {
-						$.fancybox.close();
-						$.fancybox.open($("#contact-success"));
-						$('.green-button').removeClass('sending');
-						$('#contact-form').trigger("reset");
-					} else {
-						$.fancybox.close();
-						$.fancybox.open($("#contact-error"));
-						$('.green-button').removeClass('sending');
-					}
-				},
-				error: function (errorThrown) {
-					$.fancybox.close();
-					$.fancybox.open($("#contact-error"));
-					$('.green-button').removeClass('sending');
-					console.log(errorThrown);
-				}
-			});
-			return false;
 		}
 	});
+
 } else if($('html').attr('lang')=="en-US"){ 
+
+	$(document).ready(function() {
+		if (window.location.href.indexOf("success") > -1) {
+			$.fancybox.open($("#contact-success"));
+		};
+	});
+	
 	$("#contact-form").validate({
 		highlight: function (element){
 			$(element).closest(".form-line").addClass("error");
@@ -61,40 +45,17 @@ if($('html').attr('lang')=="pt-BR"){
 			Nome: "This field is required",
 			Email: "This field is required",
 			Mensagem: "This field is required",
-		},
-		submitHandler: function(form) {
-			
-			var form = $('#contact-form');
-			
-			$('.green-button').addClass('sending');
-			
-			$.ajax({
-				type: 'POST',
-				url: '../php/sendmail.php',
-				data: form.serialize(),
-				success: function (result) {
-					if (result == 'true') {
-						$.fancybox.close();
-						$.fancybox.open($("#contact-success"));
-						$('.green-button').removeClass('sending');
-						$('#contact-form').trigger("reset");
-					} else {
-						$.fancybox.close();
-						$.fancybox.open($("#contact-error"));
-						$('.green-button').removeClass('sending');
-					}
-				},
-				error: function (errorThrown) {
-					$.fancybox.close();
-					$.fancybox.open($("#contact-error"));
-					$('.green-button').removeClass('sending');
-					console.log(errorThrown);
-				}
-			});
-			return false;
 		}
 	});
+
 } else {
+
+	$(document).ready(function() {
+		if (window.location.href.indexOf("exito") > -1) {
+			$.fancybox.open($("#contact-success"));
+		};
+	});
+	
 	$("#contact-form").validate({
 		highlight: function (element){
 			$(element).closest(".form-line").addClass("error");
@@ -106,37 +67,7 @@ if($('html').attr('lang')=="pt-BR"){
 			Nome: "Este campo es obligatorio",
 			Email: "Este campo es obligatorio",
 			Mensagem: "Este campo es obligatorio",
-		},
-		submitHandler: function(form) {
-			
-			var form = $('#contact-form');
-			
-			$('.green-button').addClass('sending');
-			
-			$.ajax({
-				type: 'POST',
-				url: '../php/sendmail.php',
-				data: form.serialize(),
-				success: function (result) {
-					if (result == 'true') {
-						$.fancybox.close();
-						$.fancybox.open($("#contact-success"));
-						$('.green-button').removeClass('sending');
-						$('#contact-form').trigger("reset");
-					} else {
-						$.fancybox.close();
-						$.fancybox.open($("#contact-error"));
-						$('.green-button').removeClass('sending');
-					}
-				},
-				error: function (errorThrown) {
-					$.fancybox.close();
-					$.fancybox.open($("#contact-error"));
-					$('.green-button').removeClass('sending');
-					console.log(errorThrown);
-				}
-			});
-			return false;
 		}
 	});
+
 }
