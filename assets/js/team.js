@@ -10,4 +10,3 @@ $(document).ready(function() {
 		$("#grid div[data-wow-delay='.4s']").attr("data-wow-delay", ".2s");
 	}
 });
-

@@ -111,9 +111,9 @@ $('#open-fs').click(function(){
 $(document).ready(function() {
 	
 	// replace imgs to svgs
-	replaceSvg()
-	setTimeout(function(){ replaceSvg(); }, 200)
-	setTimeout(function(){ replaceSvg(); }, 1000)
-	setTimeout(function(){ replaceSvg(); }, 3000)
+	replaceSvg();
+	setTimeout(function(){ replaceSvg(); }, 200);
+	setTimeout(function(){ replaceSvg(); }, 1000);
+	setTimeout(function(){ replaceSvg(); }, 3000);
 	
 });
