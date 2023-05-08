@@ -100,7 +100,7 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Cientista político por la Universidad de Brasília y graduado en Administración de Empresas por la Universidad del Estado de Santa Catarina. Actualmente es estudiante de posgrado en Comunicación Política Estratégica en FLACSO en México. Formó parte del equipo de Análisis Político de XP Investimentos (2019) y gestionó el trabajo de la FEJERS – Federación de Empresas Junior de Rio Grande do Sul – en los tres niveles de los poderes públicos del país (2019). También es el fundador de Demodata, una empresa de investigación parlamentaria que realiza encuestas estadísticas en el Congreso Nacional. Profundizó en el análisis político centrado en el mercado financiero.
+									Cientista político por la Universidad de Brasília y graduado en Administración de Empresas por la Universidad del Estado de Santa Catarina. También es especializado en Comunicación Política Estratégica por la FLACSO de México. Formó parte del equipo de Análisis Político de XP Investimentos (2019) y gestionó el trabajo de la FEJERS – Federación de Empresas Junior de Rio Grande do Sul – en los tres niveles de los poderes públicos del país (2019). También es el fundador de Demodata, una empresa de investigación parlamentaria que realiza encuestas estadísticas en el Congreso Nacional. Profundizó en el análisis político centrado en el mercado financiero.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">

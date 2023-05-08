@@ -80,7 +80,7 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Graduado en Ciencias Políticas por la Universidad Federal de Pernambuco. Fue director administrativo de Virtu Consultoria Política y aprendiz en la Asamblea Legislativa del Estado de Pernambuco.
+									Licenciado en Ciencia Política por la Universidad Federal de Pernambuco (UFPE). Fue Director Administrativo de Virtu Consultoria Política e hizo pasantía en la Asamblea Legislativa del Estado de Pernambuco. Graduado (en curso) en Ingeniería y Análisis de Datos en la CESAR School (Pernambuco). Arthur es responsable por el centro de datos y análisis cualitativo y cuantitativo de la Fatto.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">

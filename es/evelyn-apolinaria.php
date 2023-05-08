@@ -2,7 +2,7 @@
 <html lang="es">
 
 	<?php
-		$page_title = 'Equipo | Anna Dantas';
+		$page_title = 'Equipo | Evelyn Apolinária';
 		include('includes/head.php');
 	?>
 
@@ -22,7 +22,7 @@
 							<div class="col-md-6 left">
 
 								<div class="image wow fadeIn">
-									<img src="../assets/img/team/anna.jpg" alt="Anna Dantas">
+									<img src="../assets/img/team/evelyn.jpg" alt="Evelyn Apolinária">
 								</div>
 
 							</div>
@@ -32,8 +32,8 @@
 								<div class="top">
 
 									<h1 class="text-bigger wow fadeInUp sub">
-										Anna Dantas <br />
-										Consultora Asociada
+										Evelyn Apolinária <br />
+										Analista Política
 									</h1>
 
 									<div class="letter wow fadeInUp">
@@ -49,7 +49,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Consultora de Derecho Administrativo
+											Graduada en Ciencia Política por la Universidad de Brasilia (UnB)
 										</p>
 
 									</div>
@@ -59,7 +59,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Abogada
+											Maestranda en Ciencia Política por la Universidad de Brasilia (UnB)
 										</p>
 
 									</div>
@@ -69,17 +69,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Posgrado en Gestión Pública – UDF
-										</p>
-
-									</div>
-
-									<div class="line wow fadeInUp">
-
-										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
-
-										<p>
-											Coordinadora de Compliance – MPGE
+											Trabajó durante casi 4 años en el Grupo Energisa
 										</p>
 
 									</div>
@@ -100,7 +90,7 @@
 							<div class="col-lg-6 left wow fadeInUp">
 
 								<p class="text-bigger">
-									Sobre Anna D.
+									Sobre Evelyn M.
 								</p>
 
 								<?php include('../assets/svg/long-arrow-right.php') ?>
@@ -110,16 +100,16 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Abogada de Derecho Administrativo Sancionador. Posgrado en Gestión Pública por el Centro Universitário UDF (2018). Coordinadora de Compliance MPGE. Oficial de Compliance de la Rede Governança Brasil. Vicepresidente de la Asociación de Defensa contra la Corrupción. Fue Directora de la Comisión de Legislación Anticorrupción y Compliance de la OAB-DF. Fue asesora del Fiscal General del Departamiento Nacional de Infraestructura de Transportes – DNIT, y del Consejo de Administración de Companhia Docas de Rio de Janeiro. Es consultora de Derecho Administrativo y del Sistema U (TCU, CGU y AGU).
+									Graduada y maestranda en Ciencia Política por la Universidad de Brasilia (UnB). Trabajó durante casi 4 años en el Grupo Energisa, el mayor grupo con capital nacional del sector eléctrico brasileño, en el área de relaciones institucionales. Su trayectoria profesional también incluye M&G Consultoria Política, donde pudo trabajar en relaciones gubernamentales junto a los poderes Ejecutivo y Legislativo. Es parte del equipo de Fatto Inteligência Política, trabajando en análisis político y relaciones gubernamentales.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">
 
 									<p>
-										Seguir Anna Dantas
+										Seguir Evelyn Apolinária
 									</p>
 
-									<a href="#" target="_blank" class="hover">
+									<a href="https://www.linkedin.com/in/evelyn-apolin%C3%A1ria-a01a2b173/" target="_blank" class="hover">
 										Linkedin
 									</a>
 

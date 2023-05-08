@@ -72,14 +72,34 @@
 				
 							</a>
 						</div>
-				
-						<div class="col-6 col-xl-4 israel wow fadeInUp">
-							<a href="israel-medeiros" class="wrap">
+
+						<div class="col-6 col-xl-4 bruno wow fadeInUp">
+							<a href="bruno-rizzi" class="wrap">
 				
 								<h3 class="hover-multiple-lines">
 									
 									<span class="text-big">
-										Israel Medeiros
+										Bruno Rizzi
+									</span>
+									
+									<br />
+									
+									<span class="text-medium">
+										(Partner)
+									</span>
+				
+								</h3>
+				
+							</a>
+						</div>
+				
+						<div class="col-6 col-xl-4 evelyn wow fadeInUp">
+							<a href="evelyn-apolinaria" class="wrap">
+				
+								<h3 class="hover-multiple-lines">
+									
+									<span class="text-big">
+										Evelyn Apolinária
 									</span>
 									
 									<br />
@@ -120,26 +140,6 @@
 									
 									<span class="text-big">
 										Giovanna Favetti
-									</span>
-									
-									<br />
-									
-									<span class="text-medium">
-										(Consultant)
-									</span>
-				
-								</h3>
-				
-							</a>
-						</div>
-				
-						<div class="col-6 col-xl-4 anna wow fadeInUp">
-							<a href="anna-dantas" class="wrap">
-				
-								<h3 class="hover-multiple-lines">
-									
-									<span class="text-big">
-										Anna Dantas
 									</span>
 									
 									<br />

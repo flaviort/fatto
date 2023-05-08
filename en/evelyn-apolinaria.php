@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en-US">
 
 	<?php
-		$page_title = 'Equipe | Anna Dantas';
+		$page_title = 'Team | Evelyn Apolinária';
 		include('includes/head.php');
 	?>
 
@@ -22,7 +22,7 @@
 							<div class="col-md-6 left">
 
 								<div class="image wow fadeIn">
-									<img src="assets/img/team/anna.jpg" alt="Anna Dantas">
+									<img src="../assets/img/team/evelyn.jpg" alt="Evelyn Apolinária">
 								</div>
 
 							</div>
@@ -32,12 +32,12 @@
 								<div class="top">
 
 									<h1 class="text-bigger wow fadeInUp sub">
-										Anna Dantas <br />
-										Consultora Associada
+										Evelyn Apolinária <br />
+										Political Analyst
 									</h1>
 
 									<div class="letter wow fadeInUp">
-										<?php include('assets/svg/letter-f.php') ?>
+										<?php include('../assets/svg/letter-f.php') ?>
 									</div>
 
 								</div>
@@ -46,40 +46,30 @@
 
 									<div class="line wow fadeInUp">
 
-										<?php include('assets/svg/diagonal-arrow-down.php') ?>
+										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Consultora em Direito Administrativo
+											Graduated in Political Science at the University of Brasília (UnB)
 										</p>
 
 									</div>
 
 									<div class="line wow fadeInUp">
 
-										<?php include('assets/svg/diagonal-arrow-down.php') ?>
+										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Advogada
+											Currently pursuing a master's degree in Political Science at the University of Brasília (UnB)
 										</p>
 
 									</div>
 
 									<div class="line wow fadeInUp">
 
-										<?php include('assets/svg/diagonal-arrow-down.php') ?>
+										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Pós em Gestão Pública – UDF
-										</p>
-
-									</div>
-
-									<div class="line wow fadeInUp">
-
-										<?php include('assets/svg/diagonal-arrow-down.php') ?>
-
-										<p>
-											Coordenadora de Compliance – MPGE
+										Worked for nearly 4 years at Grupo Energisa
 										</p>
 
 									</div>
@@ -100,26 +90,26 @@
 							<div class="col-lg-6 left wow fadeInUp">
 
 								<p class="text-bigger">
-									Sobre Anna D.
+									About Evelyn A.
 								</p>
 
-								<?php include('assets/svg/long-arrow-right.php') ?>
+								<?php include('../assets/svg/long-arrow-right.php') ?>
 
 							</div>
 
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Advogada com atuação em Direito Administrativo Sancionador. Pós-Graduada em Gestão Pública pela UDF (2018). Coordenadora de Compliance do MPGE. Compliance Officer da Rede Governança Brasil. Vice-Presidente da Associação da Advocacia Contra a Corrupção. Foi Diretora da Comissão de Legislação Anticorrupção e Compliance da OAB-DF. Foi Assessora do Procurador-Geral do DNIT e do Conselho de Administração Companhia Docas do Rio de Janeiro. É consultora na área de Direito Administrativo e Sistema U (TCU, CGU e AGU).
+									Graduated and currently pursuing a master's degree in Political Science at the University of Brasília (UnB). Worked for nearly 4 years at Grupo Energisa, the largest nationally-owned group in the Brazilian electric sector, in institutional relations and public affairs. Her professional trajectory also includes M&G Consultoria Política, where she was able to work on government relations with the Executive and Legislative branches. She is part of the Fatto Inteligência Política team, where she works on political analysis and government relations.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">
 
 									<p>
-										Siga Anna Dantas
+										Follow Evelyn Apolinária
 									</p>
 
-									<a href="#" target="_blank" class="hover">
+									<a href="https://www.linkedin.com/in/evelyn-apolin%C3%A1ria-a01a2b173/" target="_blank" class="hover">
 										Linkedin
 									</a>
 
@@ -140,8 +130,8 @@
 			<?php include('includes/footer.php'); ?>
 
 			<footer>
-				<script src="assets/js/framework.js"></script>
-				<script src="assets/js/team-internal.js" defer></script>
+				<script src="../assets/js/framework.js"></script>
+				<script src="../assets/js/team-internal.js" defer></script>
 			</footer>
 
 		</div>

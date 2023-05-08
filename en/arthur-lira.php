@@ -80,7 +80,7 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Graduated in Political Science from the Federal University of Pernambuco. He was administrative director of Virtù Consultoria Política and was an intern at the Legislative Assembly of the State of Pernambuco.
+									Graduated in Political Science from the Federal University of Pernambuco (UFPE). He was Administrative Director of Virtù Consultoria Política and an intern at the Legislative Assembly of the State of Pernambuco. Graduate (ongoing) in Engineering and Data Analysis at CESAR School of Pernambuco. Arthur is responsible for Fatto's qualitative and quantitative analysis of political landscape.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">

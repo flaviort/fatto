@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="pt-BR">
 
 	<?php
-		$page_title = 'Team | Anna Dantas';
+		$page_title = 'Equipe | Evelyn Apolinária';
 		include('includes/head.php');
 	?>
 
@@ -22,7 +22,7 @@
 							<div class="col-md-6 left">
 
 								<div class="image wow fadeIn">
-									<img src="../assets/img/team/anna.jpg" alt="Anna Dantas">
+									<img src="assets/img/team/evelyn.jpg" alt="Evelyn Apolinária">
 								</div>
 
 							</div>
@@ -32,12 +32,12 @@
 								<div class="top">
 
 									<h1 class="text-bigger wow fadeInUp sub">
-										Anna Dantas <br />
-										Associate Consultant
+										Evelyn Apolinária <br />
+										Analista Política
 									</h1>
 
 									<div class="letter wow fadeInUp">
-										<?php include('../assets/svg/letter-f.php') ?>
+										<?php include('assets/svg/letter-f.php') ?>
 									</div>
 
 								</div>
@@ -46,40 +46,30 @@
 
 									<div class="line wow fadeInUp">
 
-										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
+										<?php include('assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Administrative Law Consultant
+											Graduada em Ciência Política pela Universidade de Brasília (UnB)
 										</p>
 
 									</div>
 
 									<div class="line wow fadeInUp">
 
-										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
+										<?php include('assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Attorney
+											Mestranda em Ciência Política pela Universidade de Brasília (UnB)
 										</p>
 
 									</div>
 
 									<div class="line wow fadeInUp">
 
-										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
+										<?php include('assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Postgraduate in Public Management – UDF
-										</p>
-
-									</div>
-
-									<div class="line wow fadeInUp">
-
-										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
-
-										<p>
-											Compliance Coordinator – MPGE
+											Atuou por quase 4 anos no Grupo Energisa
 										</p>
 
 									</div>
@@ -100,26 +90,26 @@
 							<div class="col-lg-6 left wow fadeInUp">
 
 								<p class="text-bigger">
-									About Anna D.
+									Sobre Evelyn A.
 								</p>
 
-								<?php include('../assets/svg/long-arrow-right.php') ?>
+								<?php include('assets/svg/long-arrow-right.php') ?>
 
 							</div>
 
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Lawyer with expertise in Sanctioning Administrative Law. Postgraduate in Public Management from the UDF (2018). MPGE Compliance Coordinator. Compliance Officer of Rede Governança Brasil. Vice-President of the Association of Advocacy Against Corruption. She was Director of the Anti-Corruption and Compliance Legislation Commission of the OAB-DF. She was an Advisor to the Attorney General of the DNIT and to the Board of Directors of Companhia Docas do Rio de Janeiro. She is a consultant in the area of Administrative Law and the U System (TCU, CGU and AGU).
+									Graduada e mestranda em Ciência Política pela Universidade de Brasília (UnB). Atuou por quase 4 anos no Grupo Energisa, o maior grupo com capital nacional do setor elétrico brasileiro, na área de relações institucionais. Sua trajetória profissional também inclui a M&G Consultoria Política, onde pôde atuar com public affairs e advocacy nos poderes Executivo e Legislativo. Integra a equipe da Fatto, para atuar com análise política e relações governamentais.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">
 
 									<p>
-										Follow Anna Dantas
+										Siga Evelyn Apolinária
 									</p>
 
-									<a href="#" target="_blank" class="hover">
+									<a href="https://www.linkedin.com/in/evelyn-apolin%C3%A1ria-a01a2b173/" target="_blank" class="hover">
 										Linkedin
 									</a>
 
@@ -140,8 +130,8 @@
 			<?php include('includes/footer.php'); ?>
 
 			<footer>
-				<script src="../assets/js/framework.js"></script>
-				<script src="../assets/js/team-internal.js" defer></script>
+				<script src="assets/js/framework.js"></script>
+				<script src="assets/js/team-internal.js" defer></script>
 			</footer>
 
 		</div>

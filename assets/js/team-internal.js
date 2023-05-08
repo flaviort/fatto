@@ -16,8 +16,14 @@ if (window.location.href.indexOf("bernardo-livramento") > -1) {
 	$('#fs-menu .fs-menu li:nth-child(3) a').addClass('active');
 }
 
-if (window.location.href.indexOf("israel-medeiros") > -1) {
-	$('#related .israel').remove();
+if (window.location.href.indexOf("bruno-rizzi") > -1) {
+	$('#related .bruno').remove();
+	$('#top-menu .top-menu li:nth-child(3) a').addClass('active');
+	$('#fs-menu .fs-menu li:nth-child(3) a').addClass('active');
+}
+
+if (window.location.href.indexOf("evelyn-apolinaria") > -1) {
+	$('#related .evelyn').remove();
 	$('#top-menu .top-menu li:nth-child(3) a').addClass('active');
 	$('#fs-menu .fs-menu li:nth-child(3) a').addClass('active');
 }
@@ -30,12 +36,6 @@ if (window.location.href.indexOf("arthur-lira") > -1) {
 
 if (window.location.href.indexOf("giovanna-favetti") > -1) {
 	$('#related .giovanna').remove();
-	$('#top-menu .top-menu li:nth-child(3) a').addClass('active');
-	$('#fs-menu .fs-menu li:nth-child(3) a').addClass('active');
-}
-
-if (window.location.href.indexOf("anna-dantas") > -1) {
-	$('#related .anna').remove();
 	$('#top-menu .top-menu li:nth-child(3) a').addClass('active');
 	$('#fs-menu .fs-menu li:nth-child(3) a').addClass('active');
 }

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="es">
 
 	<?php
-		$page_title = 'Team | Israel Medeiros';
+		$page_title = 'Equipo | Bruno Rizzi';
 		include('includes/head.php');
 	?>
 
@@ -22,7 +22,7 @@
 							<div class="col-md-6 left">
 
 								<div class="image wow fadeIn">
-									<img src="../assets/img/team/israel.jpg" alt="Israel Medeiros">
+									<img src="../assets/img/team/bruno.jpg" alt="Bruno Rizzi">
 								</div>
 
 							</div>
@@ -32,8 +32,8 @@
 								<div class="top">
 
 									<h1 class="text-bigger wow fadeInUp sub">
-										Israel Medeiros <br />
-										Political Analyst
+										Bruno Rizzi <br />
+										Socio
 									</h1>
 
 									<div class="letter wow fadeInUp">
@@ -49,7 +49,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Graduated in Journalism - UNIP
+											Posee un MBA de la FGV-SP
 										</p>
 
 									</div>
@@ -59,7 +59,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Specialist in Macroeconomics and International Finance - FGV
+											Tiene una especialización en Banca de Inversión de la Saint Paul Escola de Negócios de São Paulo
 										</p>
 
 									</div>
@@ -69,7 +69,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											MBA in Capital Markets from Saint Paul Business School.
+											Tiene certificaciones ANBIMA y B3
 										</p>
 
 									</div>
@@ -90,7 +90,7 @@
 							<div class="col-lg-6 left wow fadeInUp">
 
 								<p class="text-bigger">
-									About Israel M.
+									Sobre Bruno R.
 								</p>
 
 								<?php include('../assets/svg/long-arrow-right.php') ?>
@@ -100,16 +100,21 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Graduated in Journalism from UNIP. Specialist in Macroeconomics and International Finance from FGV and MBA in Capital Markets from Saint Paul Escola de Negócios. He was part of the advisory team of the Superior Electoral Court – TSE. He was a political and economics reporter for the Correio Braziliense newspaper. Creator and producer of Politikos Podcast.
+									Head Comercial y de Nuevos Negocios de la Fatto, Bruno Rizzi es ingeniero y posee un MBA de la FGV-SP, además de una especialización en Banca de Inversión de la Saint Paul Escola de Negócios de São Paulo. Tiene certificaciones ANBIMA y B3.<br /><br />
+
+									En una carrera de más de 10 años, con un largo paso por XP Inc (2018-23) como Institutional Equity Sales, responsable por el diálogo entre la economía real y el mercado financiero, seguimiento sectorial en sectores regulados y ventas en la creación de comités entre el mercado financiero e importantes personajes de la escena política brasileña.<br /><br />
+
+									Con su experiencia en el mercado financiero y con clientes institucionales (administradoras de fondos de inversión, bancos y casas de bolsa), Bruno es capaz de desarrollar todos los aspectos de nuevos productos, siempre de acuerdo con las necesidades de los clientes, además de prospectar nuevos negocios para Fatto.
+
 								</p>
 
 								<div class="follow text-small wow fadeInUp">
 
 									<p>
-										Follow Israel Medeiros
+										Seguir Bruno Rizzi
 									</p>
 
-									<a href="https://www.linkedin.com/in/israelmedeiros/" target="_blank" class="hover">
+									<a href="https://www.linkedin.com/in/brunocenturion/" target="_blank" class="hover">
 										Linkedin
 									</a>
 

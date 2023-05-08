@@ -100,7 +100,7 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Graduated in Political Science from UnB and in Business Administration from UDESC. He is currently a postgraduate student in Strategic Political Communication at FLACSO in Mexico. He was part of the Political Analysis team at XP Investimentos (2019) and managed the work of FEJERS – Federation of Junior Companies of Rio Grande do Sul – at the three levels of the country’s three levels of government (2019). He is also the founder of Demodata, a parliamentary research company that carries out statistical surveys in the National Congress. He delved into political analysis focused on the financial market.
+									Graduated in Political Science from UnB and in Business Administration from UDESC. Also specialized in Strategic Political Communication at FLACSO in Mexico. He was part of the Political Analysis team at XP Investimentos (2019) and managed the work of FEJERS – Federation of Junior Companies of Rio Grande do Sul – at the three levels of the country’s three levels of government (2019). He is also the founder of Demodata, a parliamentary research company that carries out statistical surveys in the National Congress. He delved into political analysis focused on the financial market.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">

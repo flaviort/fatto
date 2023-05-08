@@ -1,4 +1,4 @@
-<section id="fs-menu">
+<section id="fs-menu" style="visibility: hidden; opacity: 0;">
 
     <div class="bg">
         <div class="image"></div>

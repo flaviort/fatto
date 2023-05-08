@@ -86,22 +86,8 @@
 						</a>
 					</div>
 
-					<div class="link wow fadeIn" data-wow-delay=".4s">
-						<a href="anna-dantas">
-							
-							<img src="../assets/img/team/anna.jpg" alt="Anna Dantas">
-							
-							<h3 class="text-bigger">
-								Anna <br />
-								Dantas
-							</h3>
-
-							<div class="more">
-								<span></span>
-								<span></span>
-							</div>
-
-						</a>
+					<div class="photo wow fadeIn" data-wow-delay=".4s">
+						<img src="../assets/img/grid-02.jpg" alt="">
 					</div>
 
 					<div class="photo wow fadeIn" data-wow-delay=".1s">
@@ -126,8 +112,22 @@
 						</a>
 					</div>
 
-					<div class="photo wow fadeIn" data-wow-delay=".3s">
-						<img src="../assets/img/grid-02.jpg" alt="">
+					<div class="link wow fadeIn" data-wow-delay=".3s">
+						<a href="bruno-rizzi">
+							
+							<img src="../assets/img/team/bruno.jpg" alt="Bruno Rizzi">
+							
+							<h3 class="text-bigger">
+								Bruno <br />
+								Rizzi
+							</h3>
+
+							<div class="more">
+								<span></span>
+								<span></span>
+							</div>
+
+						</a>
 					</div>
 
 					<div class="text wow fadeIn" data-wow-delay=".4s">
@@ -187,13 +187,13 @@
 					</div>
 
 					<div class="link wow fadeIn" data-wow-delay=".2s">
-						<a href="israel-medeiros">
+						<a href="evelyn-apolinaria">
 							
-							<img src="../assets/img/team/israel.jpg" alt="Israel Medeiros">
+							<img src="../assets/img/team/evelyn.jpg" alt="Evelyn Apolinária">
 							
 							<h3 class="text-bigger">
-								Israel <br />
-								Medeiros
+								Evelyn <br />
+								Apolinária
 							</h3>
 
 							<div class="more">
@@ -208,8 +208,8 @@
 						<img src="../assets/img/grid-05.jpg" alt="">
 					</div>
 
-					<div class="photo wow fadeIn" data-wow-delay=".4s">
-						<img src="../assets/img/grid-06.jpg" alt="">
+					<div class="link wow fadeIn" data-wow-delay=".4s">
+					<img src="../assets/img/grid-06.jpg" alt="">
 					</div>
 
 				</section>

@@ -10,6 +10,8 @@
     justify-content: center;
     text-align: center;
     pointer-events: none;
+    transition: 1s;
+    will-change: opacity visibility pointer-events;
 
     .bg {
         position: absolute;
@@ -110,6 +112,8 @@
 body.menu-open {
     #fs-menu {
         pointer-events: all;
+        opacity: 1!important;
+        visibility: visible!important;
 
         .bg {
             transform: scaleY(1);
