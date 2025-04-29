@@ -74,6 +74,16 @@
 
 									</div>
 
+									<div class="line wow fadeInUp">
+
+										<?php include('assets/svg/diagonal-arrow-down.php') ?>
+
+										<p>
+											Diretor da ABRIG/SC
+										</p>
+
+									</div>
+
 								</div>
 
 							</div>
@@ -100,7 +110,7 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Graduado em Ciência Política pela UnB e em Administração Empresarial pela UDESC. Também é pós-graduado em Comunicação Política Estratégica pela FLACSO do México. Integrou a equipe de Análise Política da XP Investimentos (2019) e gerenciou a atuação da FEJERS – Federação de Empresas Juniores do Rio Grande do Sul – junto às três esferas dos três níveis do poder público do país (2019). Também é fundador da Demodata, empresa de pesquisas parlamentares que faz levantamentos estatísticos no Congresso Nacional. Aprofundou-se em análise política voltada para mercado financeiro.
+									Graduado em Ciência Política pela UnB e em Administração Empresarial pela UDESC. Também é pós-graduado em Comunicação Política Estratégica pela FLACSO do México. É diretor da ABRIG/SC. Integrou a equipe de Análise Política da XP Investimentos (2019) e gerenciou a atuação da FEJERS – Federação de Empresas Juniores do Rio Grande do Sul – junto às três esferas dos três níveis do poder público do país (2019). Também é fundador da Demodata, empresa de pesquisas parlamentares que faz levantamentos estatísticos no Congresso Nacional. Aprofundou-se em análise política voltada para mercado financeiro.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">

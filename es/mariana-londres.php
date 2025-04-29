@@ -2,7 +2,7 @@
 <html lang="es">
 
 	<?php
-		$page_title = 'Equipo | Evelyn Apolinária';
+		$page_title = 'Equipo | Mariana Londres';
 		include('includes/head.php');
 	?>
 
@@ -22,7 +22,7 @@
 							<div class="col-md-6 left">
 
 								<div class="image wow fadeIn">
-									<img src="../assets/img/team/evelyn.jpg" alt="Evelyn Apolinária">
+									<img src="../assets/img/team/mariana.jpg" alt="Mariana Londres">
 								</div>
 
 							</div>
@@ -32,8 +32,8 @@
 								<div class="top">
 
 									<h1 class="text-bigger wow fadeInUp sub">
-										Evelyn Apolinária <br />
-										Analista Política
+										Mariana Londres <br />
+										Analista político senior
 									</h1>
 
 									<div class="letter wow fadeInUp">
@@ -49,7 +49,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Graduada en Ciencia Política por la Universidad de Brasilia (UnB)
+											Periodista (política y economía) - ISE/IESE Business School 
 										</p>
 
 									</div>
@@ -59,7 +59,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Maestranda en Ciencia Política por la Universidad de Brasilia (UnB)
+											Historiador (UFPR)
 										</p>
 
 									</div>
@@ -69,7 +69,7 @@
 										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Trabajó durante casi 4 años en el Grupo Energisa
+											MBA de la FGV
 										</p>
 
 									</div>
@@ -90,7 +90,7 @@
 							<div class="col-lg-6 left wow fadeInUp">
 
 								<p class="text-bigger">
-									Sobre Evelyn M.
+									Sobre Mariana L.
 								</p>
 
 								<?php include('../assets/svg/long-arrow-right.php') ?>
@@ -100,16 +100,16 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Graduada y maestranda en Ciencia Política por la Universidad de Brasilia (UnB). Trabajó durante casi 4 años en el Grupo Energisa, el mayor grupo con capital nacional del sector eléctrico brasileño, en el área de relaciones institucionales. Su trayectoria profesional también incluye M&G Consultoria Política, donde pudo trabajar en relaciones gubernamentales junto a los poderes Ejecutivo y Legislativo. Es parte del equipo de Fatto Inteligência Política, trabajando en análisis político y relaciones gubernamentales.
+									Analista político, periodista con maestría por ISE/IESE Business School, historiador por la UFPR, MBA en gestión estratégica por la FGV. Especialista en la formulación de escenarios y seguimiento de proyectos económicos en el Ejecutivo y el Congreso Nacional. Es columnista de UOL. Trabajó en redacciones durante dos décadas (Band, Gazeta do Povo, BNAmericas, Estadão y R7). Trabajó en Curitiba, su ciudad natal, y en São Paulo, inicialmente como periodista económico. Llegó a Brasilia en 2010 para cubrir las elecciones presidenciales. También es columnista de UOL.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">
 
 									<p>
-										Seguir Evelyn Apolinária
+										Seguir Mariana Londres
 									</p>
 
-									<a href="https://www.linkedin.com/in/evelyn-apolin%C3%A1ria-a01a2b173/" target="_blank" class="hover">
+									<a href="https://br.linkedin.com/in/mariana-londres-7489228" target="_blank" class="hover">
 										Linkedin
 									</a>
 

@@ -74,6 +74,16 @@
 
 									</div>
 
+									<div class="line wow fadeInUp">
+
+										<?php include('assets/svg/diagonal-arrow-down.php') ?>
+
+										<p>
+											Director of ABRIG/SC
+										</p>
+
+									</div>
+
 								</div>
 
 							</div>
@@ -100,7 +110,7 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Graduated in Political Science from UnB and in Business Administration from UDESC. Also specialized in Strategic Political Communication at FLACSO in Mexico. He was part of the Political Analysis team at XP Investimentos (2019) and managed the work of FEJERS – Federation of Junior Companies of Rio Grande do Sul – at the three levels of the country’s three levels of government (2019). He is also the founder of Demodata, a parliamentary research company that carries out statistical surveys in the National Congress. He delved into political analysis focused on the financial market.
+									He holds a degree in Political Science from UnB and a degree in Business Administration from UDESC. He also holds a postgraduate degree in Strategic Political Communication from FLACSO in Mexico. He is the director of ABRIG/SC. He was a member of the Political Analysis team at XP Investimentos (2019) and managed the activities of FEJERS – Federation of Junior Enterprises of Rio Grande do Sul – with the three spheres of the three levels of government in the country (2019). He is also the founder of Demodata, a parliamentary research company that conducts statistical surveys in the National Congress. He has specialized in political analysis focused on the financial market.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">

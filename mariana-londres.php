@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="pt-BR">
 
 	<?php
-		$page_title = 'Team | Evelyn Apolinária';
+		$page_title = 'Equipe | Mariana Londres';
 		include('includes/head.php');
 	?>
 
@@ -22,7 +22,7 @@
 							<div class="col-md-6 left">
 
 								<div class="image wow fadeIn">
-									<img src="../assets/img/team/evelyn.jpg" alt="Evelyn Apolinária">
+									<img src="assets/img/team/mariana.jpg" alt="Mariana Londres">
 								</div>
 
 							</div>
@@ -32,12 +32,12 @@
 								<div class="top">
 
 									<h1 class="text-bigger wow fadeInUp sub">
-										Evelyn Apolinária <br />
-										Political Analyst
+										Mariana Londres <br />
+										Analista Política Sênior
 									</h1>
 
 									<div class="letter wow fadeInUp">
-										<?php include('../assets/svg/letter-f.php') ?>
+										<?php include('assets/svg/letter-f.php') ?>
 									</div>
 
 								</div>
@@ -46,30 +46,30 @@
 
 									<div class="line wow fadeInUp">
 
-										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
+										<?php include('assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Graduated in Political Science at the University of Brasília (UnB)
+											Jornalista (política e economia) - ISE/IESE Business School 
 										</p>
 
 									</div>
 
 									<div class="line wow fadeInUp">
 
-										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
+										<?php include('assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-											Currently pursuing a master's degree in Political Science at the University of Brasília (UnB)
+											Historiadora (UFPR)
 										</p>
 
 									</div>
 
 									<div class="line wow fadeInUp">
 
-										<?php include('../assets/svg/diagonal-arrow-down.php') ?>
+										<?php include('assets/svg/diagonal-arrow-down.php') ?>
 
 										<p>
-										Worked for nearly 4 years at Grupo Energisa
+											MBA pela FGV
 										</p>
 
 									</div>
@@ -90,26 +90,26 @@
 							<div class="col-lg-6 left wow fadeInUp">
 
 								<p class="text-bigger">
-									About Evelyn A.
+									Sobre Mariana L.
 								</p>
 
-								<?php include('../assets/svg/long-arrow-right.php') ?>
+								<?php include('assets/svg/long-arrow-right.php') ?>
 
 							</div>
 
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Graduated and currently pursuing a master's degree in Political Science at the University of Brasília (UnB). Worked for nearly 4 years at Grupo Energisa, the largest nationally-owned group in the Brazilian electric sector, in institutional relations and public affairs. Her professional trajectory also includes M&G Consultoria Política, where she was able to work on government relations with the Executive and Legislative branches. She is part of the Fatto Inteligência Política team, where she works on political analysis and government relations.
+									Analista política, jornalista com master pelo ISE/IESE Business School, historiadora pela UFPR, MBA em gestão estratégica pela FGV. Especialista em traçar cenários e no monitoramento de projetos econômicos do Executivo e no Congresso Nacional. É colunista do UOL. Trabalhou em redações por duas décadas (Band, Gazeta do Povo, BNAmericas, Estadão e R7). Atuou em Curitiba, sua cidade natal, e São Paulo, inicialmente como repórter de Economia. Chegou a Brasília em 2010, para cobrir as eleições presidenciais. Também é colunista do UOL.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">
 
 									<p>
-										Follow Evelyn Apolinária
+										Siga Mariana Londres
 									</p>
 
-									<a href="https://www.linkedin.com/in/evelyn-apolin%C3%A1ria-a01a2b173/" target="_blank" class="hover">
+									<a href="https://br.linkedin.com/in/mariana-londres-7489228" target="_blank" class="hover">
 										Linkedin
 									</a>
 
@@ -130,8 +130,8 @@
 			<?php include('includes/footer.php'); ?>
 
 			<footer>
-				<script src="../assets/js/framework.js"></script>
-				<script src="../assets/js/team-internal.js" defer></script>
+				<script src="assets/js/framework.js"></script>
+				<script src="assets/js/team-internal.js" defer></script>
 			</footer>
 
 		</div>

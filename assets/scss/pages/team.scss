@@ -1,3 +1,5 @@
+@use '../atoms/variables' as *;
+
 body.team {
     background-color: $black;
     color: $white;

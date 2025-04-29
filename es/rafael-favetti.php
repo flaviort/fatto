@@ -110,7 +110,7 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Cientista político, profesor y abogado. Máster en Ciencias Políticas por la Universidad de Brasilia y Doctor en Derecho por el Instituto de Derecho Público – IDP. Fue secretario ejecutivo del Ministerio de la Justicia y asesor legal del Ministerio. También fue asesor y jefe de gabinete de ministro del Supremo Tribunal Federal y se desempeñó como consultor de un partido político en el Senado Federal. Ha sido analista político de asociaciones, empresas y fondos de inversión durante más de 20 años.
+									Politólogo, profesor y abogado. Máster en Ciencia Política por la UnB y Doctor en Derecho por el IDP. Posee un MBA en Economía y Derecho Minero. Fue secretario ejecutivo del Ministerio de Justicia y consultor jurídico del departamento. También fue asesor y jefe de gabinete de un ministro del STF y trabajó como consultor del partido en el Senado Federal. Miembro de la comisión de juristas para el anteproyecto de código de derecho internacional privado. Vicepresidente de ABRIG. Es analista político de asociaciones, empresas y fondos de inversión desde hace más de 20 años.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">

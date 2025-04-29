@@ -93,13 +93,13 @@
 							</a>
 						</div>
 				
-						<div class="col-6 col-xl-4 evelyn wow fadeInUp">
-							<a href="evelyn-apolinaria" class="wrap">
+						<div class="col-6 col-xl-4 mariana wow fadeInUp">
+							<a href="mariana-londres" class="wrap">
 				
 								<h3 class="hover-multiple-lines">
 									
 									<span class="text-big">
-										Evelyn Apolinária
+										Mariana Londres
 									</span>
 									
 									<br />

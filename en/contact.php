@@ -63,102 +63,24 @@
 									</div>
 								</div>
 
-								<div class="form">
-									<form action="https://formsubmit.co/b709d02fa07eb7b6ce862d65f8082e47" id="contact-form" method="POST">
-
-										<input type="hidden" name="_next" value="https://fattopolitica.com.br/en/contact#success">
-										<input type="text" name="_honey" style="display: none">
-										<input type="hidden" name="_captcha" value="false">
-										<input type="hidden" name="_template" value="box">
-										<input type="hidden" name="_subject" value="Formulário de Contato">
-
-										<div class="row">
-
-											<div class="col-md-6">
-
-												<div class="form-line wow fadeInUp">
-
-													<label for="nome" class="label text-medium">
-														Full Name
-													</label>
-
-													<input type="text" name="Nome" id="nome" class="input text-medium" placeholder="Type here" required />
-													
-												</div>
-
-												<div class="form-line wow fadeInUp">
-
-													<label for="email" class="label text-medium">
-														E-mail
-													</label>
-
-													<input type="email" name="Email" id="email" class="input text-medium" placeholder="Type here" required />
-													
-												</div>
-
-												<div class="form-line wow fadeInUp">
-
-													<label for="telefone" class="label text-medium">
-														Phone
-													</label>
-
-													<input type="text" name="Telefone" id="telefone" class="input text-medium" placeholder="Type here" />
-													
-												</div>
-
-												<div class="form-line wow fadeInUp">
-
-													<label for="horario" class="label text-medium">
-														Best time to talk
-													</label>
-
-													<input type="text" name="Horario" id="horario" class="input text-medium" placeholder="Type here" />
-													
-												</div>
-
-											</div>
-
-											<div class="col-md-6 right">
-
-												<div class="form-line wow fadeInUp">
-
-													<label for="mensagem" class="label text-medium">
-														Leave your message
-													</label>
-
-													<textarea name="Mensagem" id="mensagem" class="input textarea text-medium" placeholder="Type here" required></textarea>
-
-												</div>
-
-											</div>
-
-											<div class="col-12">
-												
-												<button type="submit" class="text-small green-button wow fadeInUp">
-													<span class="loading"><?php include('../assets/svg/spinner.php') ?></span>
-													Submit
-												</button>
-
-												<div class="cf"></div>
-
-											</div>
-
-										</div>
-									</form>
-								</div>
-
 								<div class="address text-medium">
 									<div class="row">
 										
 										<div class="col-md-6">
+											<div class="image wow fadeIn">
+												<img src="../assets/img/qr-code.jpg" alt="QR Code">
+											</div>
+										</div>
+
+										<div class="col-md-6">
+
+											<p class="wow fadeInUp">
+												WhatsApp: <a href='https://wa.me/5511972089616' class='hover-multiple-lines'>+55 11 97208-9616</a>
+											</p>
 
 											<p class="wow fadeInUp">
 												SHIS, QI 3, Conjunto 11, Cs. 9 – Lago Sul, Brasília / DF
 											</p>
-
-										</div>
-
-										<div class="col-md-6">
 
 											<p class="wow fadeInUp">
 												Zipcode: 71605-310

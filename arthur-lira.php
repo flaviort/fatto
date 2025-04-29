@@ -80,7 +80,7 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Graduado em Ciência Política pela Universidade Federal de Pernambuco – UFPE. Foi Diretor Administrativo da Virtù Consultoria Política e estagiou na Assembleia Legislativa do Estado de Pernambuco. É pós-graduando em Engenharia e Análise de Dados na CESAR School (PE) e é responsável pelo núcleo de dados e análises qualitativas e quantitativas da Fatto.
+									Graduado em Ciência Política pela Universidade Federal de Pernambuco – UFPE e especialista em Engenharia e Análise de Dados pela CESAR School (PE). Foi Diretor Administrativo da Virtù Consultoria Política e estagiou na Assembleia Legislativa do Estado de Pernambuco. É responsável pelo núcleo de dados e análises qualitativas e quantitativas da Fatto.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">

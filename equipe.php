@@ -130,15 +130,27 @@
 						</a>
 					</div>
 
-					<div class="text wow fadeIn" data-wow-delay=".4s">
-						<p class="text-medium">
-							Inteligência para antecipar riscos políticos e regulatórios.
-						</p>
+					<div class="link wow fadeIn" data-wow-delay=".4s">
+						<a href="mariana-londres">
+							
+							<img src="assets/img/team/mariana.jpg" alt="Mariana Londres">
+							
+							<h3 class="text-bigger">
+								Mariana <br />
+								Londres
+							</h3>
+
+							<div class="more">
+								<span></span>
+								<span></span>
+							</div>
+
+						</a>
 					</div>
 
 					<div class="text wow fadeIn" data-wow-delay=".1s">
 						<p class="text-medium">
-							Somos um time multidisciplinar.
+							Inteligência para antecipar riscos políticos e regulatórios.
 						</p>
 					</div>
 
@@ -146,7 +158,13 @@
 						<img src="assets/img/grid-03.jpg" alt="">
 					</div>
 
-					<div class="link wow fadeIn" data-wow-delay=".3s">
+					<div class="text wow fadeIn" data-wow-delay=".3s">
+						<p class="text-medium">
+							Somos um time multidisciplinar.
+						</p>
+					</div>
+
+					<div class="link wow fadeIn" data-wow-delay=".4s">
 						<a href="giovanna-favetti">
 							
 							<img src="assets/img/team/giovanna.jpg" alt="Giovanna Favetti">
@@ -164,11 +182,11 @@
 						</a>
 					</div>
 
-					<div class="photo wow fadeIn" data-wow-delay=".4s">
+					<div class="photo wow fadeIn" data-wow-delay=".1s">
 						<img src="assets/img/grid-04.jpg" alt="">
 					</div>
 
-					<div class="link wow fadeIn" data-wow-delay=".1s">
+					<div class="link wow fadeIn" data-wow-delay=".2s">
 						<a href="arthur-lira">
 							
 							<img src="assets/img/team/arthur.jpg" alt="Arthur Lira">
@@ -176,24 +194,6 @@
 							<h3 class="text-bigger">
 								Arthur <br />
 								Lira
-							</h3>
-
-							<div class="more">
-								<span></span>
-								<span></span>
-							</div>
-
-						</a>
-					</div>
-
-					<div class="link wow fadeIn" data-wow-delay=".2s">
-						<a href="evelyn-apolinaria">
-							
-							<img src="assets/img/team/evelyn.jpg" alt="Evelyn Apolinária">
-							
-							<h3 class="text-bigger">
-								Evelyn <br />
-								Apolinária
 							</h3>
 
 							<div class="more">

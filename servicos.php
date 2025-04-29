@@ -172,19 +172,19 @@
 										
 										<div class="col-lg-4">
 											<p>
-												Antecipação de mudança na Presidência da Petrobras (saída de Castello Branco).
+												Call correto sobre a aprovação da PEC de Transição (32/2022)
 											</p>
 										</div>
 
 										<div class="col-lg-4">
 											<p>
-												Análise constante sobre as movimentações eleitorais de 2022: acerto sobre as prévias do PSDB (Leite x Doria), manutenção da candidatura de Doria ao longo do primeiro semestre de 2022 e desistência em junho.
+												Previsão dos resultados eleitorais de 2024 (principais capitais)
 											</p>
 										</div>
 
 										<div class="col-lg-4">
 											<p>
-												Call correto sobre aprovação da PEC 15/2022.
+												Antecipação da indicação de Gleisi Hoffmann para a SRI
 											</p>
 										</div>
 

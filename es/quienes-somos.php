@@ -64,7 +64,7 @@
 							<div class="col-md-7 right">
 
 								<p class="text-medium desc wow fadeIn">
-									Fatto Inteligencia Política se fundó em 2015 como una empresa de relaciones gubernamentales stricto sensu, com base em la experiencia de los sócios que fundaron la empresa. El conocimiento adquirido sobre la operación del sector público fue importante para generar valor para los clientes interessados em compreender y prepararse para las decisiones del Gobierno, del Congreso Nacional y del Poder Judicial.<br /><br />
+									Fatto Inteligencia Política se fundó em 2015 como una empresa enfocada en relaciones gubernamentales, com base em la experiencia de los sócios que fundaron la empresa. El conocimiento adquirido sobre la operación del sector público fue importante para generar valor para los clientes interessados em compreender y prepararse para las decisiones del Gobierno, del Congreso Nacional y del Poder Judicial.<br /><br />
 
 									La mirada “interior” está en el ADN de Fatto. Contamos con líderes en nuestra fundación que han ocupado cargos clave en el sector público, además de empleados que han trabajado en importantes instituciones del país. Esto nos ayuda a formular escenarios y comprender las perspectivas desde un punto de vista privilegiado.<br /><br />
 								</p>

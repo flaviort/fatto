@@ -172,19 +172,19 @@
 										
 										<div class="col-lg-4">
 											<p>
-												Anticipation of change in the Petrobras Presidency (Castello Branco's departure).
+												Correct call on the approval of the Transition PEC (32/2022)
 											</p>
 										</div>
 
 										<div class="col-lg-4">
 											<p>
-												Constant analysis of the 2022 electoral movements: agreement on the PSDB (Leite x Doria) primaries, maintenance of Doria's candidacy throughout the first half of 2022 and withdrawal in June.
+												Prediction of the 2024 election results (main capitals)
 											</p>
 										</div>
 
 										<div class="col-lg-4">
 											<p>
-												Correct call on approval of PEC 15/2022.
+												Gleisi Hoffmann's nomination for the SRI brought forward
 											</p>
 										</div>
 

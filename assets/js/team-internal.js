@@ -22,8 +22,8 @@ if (window.location.href.indexOf("bruno-rizzi") > -1) {
 	$('#fs-menu .fs-menu li:nth-child(3) a').addClass('active');
 }
 
-if (window.location.href.indexOf("evelyn-apolinaria") > -1) {
-	$('#related .evelyn').remove();
+if (window.location.href.indexOf("mariana-londres") > -1) {
+	$('#related .mariana').remove();
 	$('#top-menu .top-menu li:nth-child(3) a').addClass('active');
 	$('#fs-menu .fs-menu li:nth-child(3) a').addClass('active');
 }

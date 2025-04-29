@@ -110,7 +110,7 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Political scientist, professor and lawyer. Master in Political Science from UnB and Doctor in Law from IDP. He was executive secretary of the Ministry of Justice and legal adviser to the portfolio. He was also an advisor and chief of staff to a minister of the STF and served as a party consultant in the Federal Senate. He has been a political analyst for associations, companies and investment funds for over 20 years.
+									Political scientist, professor and lawyer. Master in Political Science from UnB and PhD in Law from IDP. MBA in Economics and Mineral Law. He was executive secretary of the Ministry of Justice and legal consultant for the department. He was also an advisor and chief of staff to a minister of the STF and worked as a party consultant in the Federal Senate. Member of the committee of jurists for the draft of the code of international private law. Vice-president of ABRIG. He has been a political analyst for associations, companies and investment funds for over 20 years.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">

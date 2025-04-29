@@ -110,7 +110,7 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Cientista político, professor e advogado. Mestre em Ciência Política pela UnB e doutor em Direito pelo IDP. Foi secretário executivo do Ministério da Justiça e consultor jurídico da pasta. Também foi assessor e chefe de gabinete de ministro do STF e atuou como consultor de partido no Senado Federal. É analista político de associações, empresas e fundos de investimento há mais de 20 anos.
+									Cientista político, professor e advogado. Mestre em Ciência Política pela UnB e doutor em Direito pelo IDP. Tem MBA em Economia e Direito Mineral. Foi secretário executivo do Ministério da Justiça e consultor jurídico da pasta. Também foi assessor e chefe de gabinete de ministro do STF e atuou como consultor de partido no Senado Federal. Membro da comissão de juristas para o anteprojeto do código de direito privado internacional. Vice-presidente da ABRIG. É analista político de associações, empresas e fundos de investimento há mais de 20 anos.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">

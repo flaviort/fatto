@@ -1,27 +1,26 @@
 // use these to create a big main.scss
-@import 'atoms/variables';
-//@import 'atoms/breakpoints';
-@import 'atoms/reset';
-@import 'atoms/scroll';
-@import 'atoms/containers';
-@import 'atoms/fonts';
-@import 'atoms/texts';
-@import 'atoms/buttons';
-@import 'atoms/inputs';
-@import 'atoms/animations';
-@import 'atoms/global';
+@use 'atoms/variables' as *;
+@use 'atoms/reset' as *;
+@use 'atoms/scroll' as *;
+@use 'atoms/containers' as *;
+@use 'atoms/fonts' as *;
+@use 'atoms/texts' as *;
+@use 'atoms/buttons' as *;
+@use 'atoms/inputs' as *; 
+@use 'atoms/animations' as *;
+@use 'atoms/global' as *;
 
 // modules
-@import 'modules/fs-menu';
-@import 'modules/top-menu';
-@import 'modules/footer';
-@import 'modules/popups';
+@use 'modules/fs-menu';
+@use 'modules/top-menu';
+@use 'modules/footer';
+@use 'modules/popups';
 
 // pages
-@import 'pages/home';
-@import 'pages/who-we-are';
-@import 'pages/team';
-@import 'pages/team-internal';
-@import 'pages/services';
-@import 'pages/contact';
-@import 'pages/error';
+@use 'pages/home';
+@use 'pages/who-we-are';
+@use 'pages/team';
+@use 'pages/team-internal';
+@use 'pages/services';
+@use 'pages/contact';
+@use 'pages/error';

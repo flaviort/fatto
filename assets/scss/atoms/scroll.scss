@@ -1,3 +1,5 @@
+@use 'variables' as *;
+
 html {
 	&::-webkit-scrollbar {
 		width: 5px;

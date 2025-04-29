@@ -1,3 +1,5 @@
+@use '../atoms/variables' as *;
+
 body.contact {
     #banner {
         position: relative;
@@ -72,6 +74,7 @@ body.contact {
             }
         }
 
+        /*
         .form {
             display: block;
             margin: 3rem 0 5rem 0;
@@ -163,10 +166,43 @@ body.contact {
                 }
             }
         }
+        */
 
         .address {
             color: $black;
             font-weight: $light;
+            margin-top: 3rem;
+
+            @media #{$mq-sm-min} {
+                margin-top: 4rem;
+            }
+
+            @media #{$mq-md-min} {
+                margin-top: 5rem;
+            }
+
+            @media #{$mq-lg-min} {
+                margin-top: 7rem;
+            }
+
+            .image {
+                display: block;
+                width: 10rem;
+                margin-bottom: 3rem;
+
+                @media #{$mq-md-min} {
+                    width: 13rem;
+                    margin-bottom: 0;
+                }
+
+                @media #{$mq-lg-min} {
+                    width: 15rem;
+                }
+
+                img {
+                    width: 100%;
+                }
+            }
 
             p {
                 display: block;
@@ -176,7 +212,7 @@ body.contact {
 
                 @media #{$mq-lg-min} {
                     padding-top: 2rem;
-                    padding-bottom: 0;
+                    padding-bottom: 2rem;
                 }
             }
         }

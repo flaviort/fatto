@@ -172,19 +172,19 @@
 										
 										<div class="col-lg-4">
 											<p>
-												Anticipación del cambio en la Presidencia de Petrobras (salida de Castello Branco).
+												Llamamiento correcto sobre la aprobación del PEC de Transición (32/2022)
 											</p>
 										</div>
 
 										<div class="col-lg-4">
 											<p>
-												Análisis constante de los movimientos electorales de 2022: acuerdo en las primarias del PSDB (Leite x Doria), mantenimiento de la candidatura de Doria durante todo el primer semestre de 2022 y retirada en junio.
+												Pronóstico de los resultados electorales de 2024 (principales capitales)
 											</p>
 										</div>
 
 										<div class="col-lg-4">
 											<p>
-												Predicción correcta de aprobación de sobre aprovação de la PEC 15/2022.
+												Avance de la nominación de Gleisi Hoffmann para SRI
 											</p>
 										</div>
 

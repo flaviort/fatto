@@ -64,7 +64,7 @@
 							<div class="col-md-7 right">
 
 								<p class="text-medium desc wow fadeIn">
-									Fatto was founded as a stricto sensu government relations company, based on the expertise of the partners who founded the company. Rafael Favetti, managing partner, has extensive experience in leadership positions in the three branches of government, in institutions such as the Ministry of Justice, the Federal Supreme Court and the Senate. Over time, the acquired know-how about the functioning of the public sector began to generate value for clients interested in understanding and preparing themselves for the decisions of the government, the National Congress and the Judiciary.<br /><br />
+									Fatto was founded as a focused government relations company, based on the expertise of the partners who founded the company. Rafael Favetti, managing partner, has extensive experience in leadership positions in the three branches of government, in institutions such as the Ministry of Justice, the Federal Supreme Court and the Senate. Over time, the acquired know-how about the functioning of the public sector began to generate value for clients interested in understanding and preparing themselves for the decisions of the government, the National Congress and the Judiciary.<br /><br />
 
 									The “inside” look is in Fatto's DNA. We have leaders in our foundation who have held key positions in the public sector, in addition to employees who have been to important institutions in the country. This helps us formulate scenarios and understand the perspectives of those on the other side of the counter.<br /><br />
 								</p>

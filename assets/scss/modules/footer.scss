@@ -1,3 +1,5 @@
+@use '../atoms/variables' as *;
+
 #footer {
     text-transform: uppercase;
     font-weight: $medium;
