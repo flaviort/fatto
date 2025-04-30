@@ -100,7 +100,7 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Political analyst and journalist with a master's degree from ISE/IESE Business School, historian from UFPR, and MBA in strategic management from FGV. Specialist in outlining scenarios and monitoring economic projects of the Executive Branch and the National Congress. She is a columnist for UOL. She worked in newsrooms for two decades (Band, Gazeta do Povo, BNAmericas, Estadão and R7). She worked in Curitiba, her hometown, and São Paulo, initially as an economics reporter. She arrived in Brasília in 2010 to cover the presidential elections. She is also a columnist for UOL.
+									Political analyst and journalist with a master's degree from ISE/IESE Business School, historian from UFPR, and MBA in strategic management from FGV. Specialist in outlining scenarios and monitoring economic projects of the Executive Branch and the National Congress. She worked in newsrooms for two decades (Band, Gazeta do Povo, BNAmericas, Estadão and R7). She worked in Curitiba, her hometown, and São Paulo, initially as an economics reporter. She arrived in Brasília in 2010 to cover the presidential elections. She is a columnist for UOL since 2022.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">

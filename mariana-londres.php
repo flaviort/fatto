@@ -100,7 +100,7 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Analista política, jornalista com master pelo ISE/IESE Business School, historiadora pela UFPR, MBA em gestão estratégica pela FGV. Especialista em traçar cenários e no monitoramento de projetos econômicos do Executivo e no Congresso Nacional. É colunista do UOL. Trabalhou em redações por duas décadas (Band, Gazeta do Povo, BNAmericas, Estadão e R7). Atuou em Curitiba, sua cidade natal, e São Paulo, inicialmente como repórter de Economia. Chegou a Brasília em 2010, para cobrir as eleições presidenciais. Também é colunista do UOL.
+									Analista política, jornalista com master pelo ISE/IESE Business School, historiadora pela UFPR, MBA em gestão estratégica pela FGV. Especialista em traçar cenários e no monitoramento de projetos econômicos do Executivo e no Congresso Nacional. Trabalhou em redações por duas décadas (Band, Gazeta do Povo, BNAmericas, Estadão e R7). Atuou em Curitiba, sua cidade natal, e São Paulo, inicialmente como repórter de Economia. Chegou a Brasília em 2010, para cobrir as eleições presidenciais. É colunista do UOL desde 2022.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">

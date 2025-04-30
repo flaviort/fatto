@@ -100,7 +100,7 @@
 							<div class="col-lg-6 right">
 
 								<p class="text-medium desc wow fadeInUp">
-									Analista político, periodista con maestría por ISE/IESE Business School, historiador por la UFPR, MBA en gestión estratégica por la FGV. Especialista en la formulación de escenarios y seguimiento de proyectos económicos en el Ejecutivo y el Congreso Nacional. Es columnista de UOL. Trabajó en redacciones durante dos décadas (Band, Gazeta do Povo, BNAmericas, Estadão y R7). Trabajó en Curitiba, su ciudad natal, y en São Paulo, inicialmente como periodista económico. Llegó a Brasilia en 2010 para cubrir las elecciones presidenciales. También es columnista de UOL.
+									Analista político, periodista con maestría por ISE/IESE Business School, historiador por la UFPR, MBA en gestión estratégica por la FGV. Especialista en la formulación de escenarios y seguimiento de proyectos económicos en el Ejecutivo y el Congreso Nacional. Trabajó en redacciones durante dos décadas (Band, Gazeta do Povo, BNAmericas, Estadão y R7). Trabajó en Curitiba, su ciudad natal, y en São Paulo, inicialmente como periodista económico. Llegó a Brasilia en 2010 para cubrir las elecciones presidenciales. Es columnista de UOL desde 2022.
 								</p>
 
 								<div class="follow text-small wow fadeInUp">

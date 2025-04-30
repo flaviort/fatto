@@ -64,7 +64,7 @@
 							<div class="col-md-7 right">
 
 								<p class="text-medium desc wow fadeIn">
-									A Fatto foi fundada como uma empresa focada de relações governamentais, partindo da expertise dos sócios que fundaram a empresa. Rafael Favetti, sócio-diretor, acumula larga experiência em cargos de liderança nos três poderes, em instituições como o Ministério da Justiça, o Supremo Tribunal Federal e o Senado. Ao longo do tempo, o know-how adquirido sobre o funcionamento do setor público começou a gerar valor para clientes interessados em entender e se preparar para as decisões do governo, do Congresso Nacional e do Judiciário.<br /><br />
+									A Fatto foi fundada como uma empresa focada em relações governamentais, partindo da expertise dos sócios que fundaram a empresa. Rafael Favetti, sócio-diretor, acumula larga experiência em cargos de liderança nos três poderes, em instituições como o Ministério da Justiça, o Supremo Tribunal Federal e o Senado. Ao longo do tempo, o know-how adquirido sobre o funcionamento do setor público começou a gerar valor para clientes interessados em entender e se preparar para as decisões do governo, do Congresso Nacional e do Judiciário.<br /><br />
 
 									O olhar “de dentro” está no DNA da Fatto. Temos em nossa fundação líderes com passagens por cargos-chave do setor público, além de colaboradores que estiveram em instituições importantes do país. Isso nos ajuda a formular cenários e entender as perspectivas de quem está do outro lado do balcão.<br /><br />
 								</p>
